@@ -1,0 +1,21 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Environment and Climate Change"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - href: lecture1.qmd
+        text: Macro-Econ
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true
+
+bibliography: bibliography.bib
+

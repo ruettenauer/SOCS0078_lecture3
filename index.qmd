@@ -1,0 +1,98 @@
+---
+title: "Climate Change and Environment"
+output: 
+  html_document:
+    toc: true
+    toc_float: true
+    toc_depth: 2
+    number_sections: true
+---
+
+
+This module introduces students to the politics, sociology, and economics of the environment and climate change. Topics covered include the changing public opinion on climate change, the social bases of pro-environment behavior, the prisoner dilemma and tragedy of the commons, and the challenge of designing effective policy responses at the national and international level. Moreover, we investigate the role of public opinion and social movements in shaping environmental policy. Finally, we consider the unequal economic and social impact of climate change, including distributional aspects and consequences of extreme weather events.
+
+![Globally averaged surface air temperature anomalies relative to 1991–2020 for each September from 1940 to 2023. Credit: [Copernicus Climate Change Service/ECMWF](https://climate.copernicus.eu/copernicus-september-2023-unprecedented-temperature-anomalies)](figs/copernicus1.png)
+
+![Surface air temperature anomaly for September 2023 relative to the September average for the period 1991-2020. Credit: [Copernicus Climate Change Service/ECMWF](https://climate.copernicus.eu/surface-air-temperature-september-2023)](figs/copernicus2.png)
+
+# Module Outline
+
+
+## Lecture 0: Introduction to Climate Change and Environmental Politics
+
+- Overview of the module
+- Importance of understanding climate change and environment for social scientists
+
+## Lecture 1: The Science of Climate Change
+
+- Measuring and modeling climate
+- Evidence of anthropogenic climate change
+
+## Lecture 2: Population, Climate, and Policy
+
+- Human population and its impact on the environment
+- Individual ecological footprint
+- The effect of climate change on population dynamics
+
+## Lecture 3: Impacts of Climate Change
+
+- Air pollution and health
+- Extreme weather and health
+- Climate change and economic activities
+
+## Lecture 4: Extreme Weather Events and Climate Adaptation
+
+- Consequences of extreme weather events
+- Climate adaptation and resilience strategies
+- Private protection and public goods
+
+## Lecture 5: Prisoner Dilemma and Tragedy of the Commons
+
+- Game theory and its application to environmental issues
+- Tragedy of the commons
+- Strategies for overcoming collective action problems
+
+## Lecture 6: Attitudes and Behaviour
+
+- Environmental attitudes across time and space
+- Climate denial
+- The gap between attitudes and behaviour
+
+## Lecture 7: Macro-Economic Persepectives of Climate Change
+
+- Environmental Kuznets Curve and its relevance
+- Treadmill of Production
+- IPAT
+
+## Lecture 8: Distributional Aspects of Climate Change
+
+- Climate justice and equity considerations
+- Disproportionate impacts on marginalized communities
+- Policy approaches to address distributional issues
+
+## Lecture 9: Policies and Institutions
+
+- Carbon pricing, carbon tax
+- The impact of international agreements
+- Second order problem of collective action
+
+## Lecture 10: Public Opinion and Social Movements
+
+- Influence of public opinion on policy decisions
+- Social movements advocating for climate action
+- Role of social movements in environmental change
+
+# Recommended Readings
+
+- @Franzen.2021b
+- @Dryzek.2013
+- @Dietz.2020a
+- @IPCC.2022
+- @vanDaalen.2022
+
+# Contact Information
+
+- Instructor: Tobias Rüttenauer
+- Email: t.ruttenauer@ucl.ac.uk
+- Office Hours: Tuesdays, 11am-1pm (please register by email)
+

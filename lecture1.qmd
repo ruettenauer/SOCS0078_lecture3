@@ -1,0 +1,468 @@
+---
+title: "Macro-Economic Persepectives of Climate Change"
+author: "Tobias Rüttenauer"
+format:
+  revealjs: 
+    slide-number: true
+    chalkboard: 
+      buttons: false
+    preview-links: auto
+    css: styles.css
+    footer: <[home](/index.html)>
+date: "2023-10-11"
+---
+
+
+## "Green growth is already here" {.smaller}
+
+![](figs/ft2.png)
+
+*In 2016, 70 countries — more than one in three worldwide — had a run of at least five years in which carbon emissions declined while GDP grew. Green growth is already here.*
+
+John Burn-Murdoch in the [Financial Times (2022)](https://www.ft.com/content/967e1d77-8d3c-4256-9339-6ea7025cd5d3)
+
+---
+
+## Macro-Economic Persepectives of Climate Change
+
+- What are the driving forces that produce the environmental impacts threatening sustainability?
+- Focus on macro-explanations rather than individual behaviour
+
+---
+
+## Macro-Economic Persepectives of Climate Change
+
+![](figs/meme5.jpg)
+
+
+---
+
+## Human Ecological Model IPAT {.smaller}
+
+$$
+I = P*A*T
+$$
+
+- Long-standing formulation of how **I**mpacts on the environmental are the multiplicative product of: 
+   - **P**opulation, 
+   - **A**ffluence (per capita consumption or production), 
+   - **T**echnology (impact per unit of consumption or production)
+
+[@Dietz.1994; @York.2003]
+
+# Environmental Kuznets Curve
+
+---
+
+## Environmental Kuznets Curve
+
+- The **Environmental Kuznets Curve (EKC)** explores the relationship between economic development and environmental quality.
+
+- Original Kuznets Curve [@Kuznets.1955] on the relation between economic growth and income inequality.
+
+- Reformulation by @Grossman.1995 applying the KC to environmental issues.
+
+---
+
+## What is the EKC?
+
+::: {.callout-tip}
+## Environmental Kuznets Curve
+
+*The environmental Kuznets curve (EKC) is a hypothesized relationship between various indicators of environmental degradation and income per capita.* 
+
+*In the early stages of economic growth degradation and pollution increase, but beyond some level of income per capita, which will vary for different indicators, the trend reverses, so that at high income levels economic growth leads to environmental improvement.*
+
+[@Stern.2004]
+:::
+
+---
+
+## The Inverted U-Shape
+
+- In the EKC, environmental impact is often depicted as an inverted U-shaped curve:
+  - Initial stage: Environmental degradation increases as economies grow.
+  - Turning point: At a certain income level, environmental degradation peaks.
+  - Later stage: Beyond the turning point, further economic growth leads to environmental improvement.
+
+---
+
+## The Inverted U-Shape
+
+![Source: @Mitic.2019](figs/Environmental-Kuznets-Curve_W640.jpg)
+
+---
+
+## Factors Influencing the EKC {.scrollable .smaller}
+
+Several factors influence the shape of the EKC:
+
+::: {.incremental}
+- **Scale Effect:** Economic growth leads to increased resource use and pollution.
+- **Changes in Industry:** Shifts from heavy industry to services can impact emissions.
+- **Changes in Input:** Shifts towards more sustainable resources for production.
+- **Technological Change:** Advancements can lead to cleaner production processes.
+  - Production efficiency: Using less input/resources.
+  - Emission efficiency: Same input producing less emissions.
+  <!-- - **Policy and Awareness:** Environmental regulations reduce emissions. -->
+:::
+
+[@Stern.2004; @Stern.2017]
+
+<!-- . . . -->
+
+<!-- What else could happen at higher levels of income? -->
+
+---
+
+## Some questions for you
+
+![](figs/mentimeter_qr_code.png)
+
+[https://www.menti.com/alpxnk7jdxfm](https://www.menti.com/alpxnk7jdxfm){target="_blank"}
+
+
+::: footer
+<[Link to results](https://www.mentimeter.com/app/presentation/alkgsxr6zb4q55gndan66rufde5udm1z){target="_blank"}>
+:::
+
+---
+
+## Your answers
+
+```{=html}
+<div style='position: relative; padding-bottom: 56.25%; padding-top: 35px; height: 0; overflow: hidden;'><iframe sandbox='allow-scripts allow-same-origin allow-presentation' allowfullscreen='true' allowtransparency='true' frameborder='0' height='315' src='https://www.mentimeter.com/app/presentation/alkgsxr6zb4q55gndan66rufde5udm1z/embed' style='position: absolute; top: 0; left: 0; width: 100%; height: 100%;' width='420'></iframe></div>
+```
+
+---
+
+## Early EKC Studies {.scrollable .smaller}
+
+- @Grossman.1995 estimated EKCs for SO2, dark matter, and heavy particles
+  - They used a cubic function of GDP per capita and found turning points at around $4,000–5,000.
+- @Selden.1994 estimate the effect on dioxide, oxides of nitrogen, and carbon monoxide
+  - They confirm the inverted U-shaped relationship
+  - But turning points are much higher, at around $10,000
+
+There are many more [@Stern.2004; @Stern.2017].
+
+
+# Some criticism 
+
+---
+
+## Methodological Challenges  {.scrollable .smaller}
+
+::: {.incremental}
+- Heteroskedasticity and modeling of non-linearity are common challenges.
+- @Stern.2004 noted that using data mainly from developed countries led to lower turning points.
+- Problem of cointegration in panel data (time-series wander together): how to separate (potentially independent) time-trends in the data?
+- Omitted variables bias: industrial trade, geographic region, urbanisation, ...? [@@York.2003]
+:::
+
+---
+
+## Theoretical Challenges {.smaller}
+
+::: {.incremental}
+- A fundamental assumption of the EKC model is that income is independent of environmental damage.
+- There are likely differences between various pollutants.
+- Externalisation and trade: Decrease of production in global north based on increase in global south. 
+- Environmental regulations in global north may negatively impact global south.
+- Skewed distribution of income and wealth: increase concentrated among a small group.
+::: 
+
+[@Arrow.1995; @Stern.2017]
+
+---
+
+## Alternatives and reformulations {.smaller}
+
+![Source: @Dasgupta.2002](figs/Scenarios.png)
+
+---
+
+## Treadmill of production  {.scrollable .smaller}
+
+::: {.incremental}
+- To maintain profits, producers must constantly seek to expand production.
+- Efficient technologies are adopted to increase yields per unit of labour
+    - decreasing emissions,
+    - but displacing workers.
+- Workers, fearing unemployment, support increased production, creating a cycle.
+- Governments support increased production for tax revenues.
+- The treadmill increases environmental impacts through resource demands and waste.
+:::
+
+[@Schnaiberg.2002; @York.2003]
+
+---
+
+## Treadmill of production  {.scrollable .smaller}
+
+::: {.incremental}
+- Schnaiberg argues that producers won't internalize environmental costs willingly, as it reduces profits.
+- Reform-oriented actions may not significantly alter producer power or reduce environmental externalities.
+- The solution, according to the treadmill perspective, is to restructure society to limit producer hegemony.
+- Efficiency-improving technology, in contrast, ultimately leads to increased impacts due to reinvestment in production.
+:::
+
+[@York.2003]
+
+# Let's have a look at some data
+
+---
+
+## World Development Indicators {.scrollable .smaller}
+
+The code below loads the WDI packages and searches for an indicator on CO2 per capita. It uses the statistics software R (more later).
+
+```{r example_wdi_1}
+#| echo: true
+
+# load package
+library(WDI)
+
+# Search GDP per capita (log-transformed)
+WDIsearch("CO2.*capita")
+
+```
+
+The code below uses the WDI API to retrieve the data and creates a dataframe of three indicators.
+
+```{r example_wdi_2, eval=TRUE, warning=FALSE}
+#| echo: true
+
+# Define countries, indicators form above, and time period
+wd.df <- WDI(country = "all", 
+             indicator = c('population' = "SP.POP.TOTL", 
+                           'gdp_pc' = "NY.GDP.PCAP.KD", 
+                           'co2_pc' = "EN.ATM.CO2E.PC",
+                           'nox_pc' = "EN.ATM.NOXE.PC",
+                           'pm25_mean' = "EN.ATM.PM25.MC.M3",
+                           'parliament_women_pt' = "SG.GEN.PARL.ZS",
+                           'gini'  = "SI.POV.GINI", 
+                           'fossil_fuel_pt' = "EG.USE.COMM.FO.ZS", 
+                           'taxes_total' = "IC.TAX.TOTL.CP.ZS"),
+             extra = TRUE,
+             start = 2000, end = 2019)
+
+# Drop all country aggregates
+wd.df <- wd.df[which(wd.df$region != "Aggregates"), ]
+
+# Save data
+save(wd.df, file = "WDI_short.RData")
+```
+
+---
+
+## Empirical test using 2019 WDI data {.scrollable .smaller}
+
+```{r wdi_reg1, message=FALSE, warning=FALSE}
+#| echo: true
+#| code-fold: true
+#| code-summary: "show code"
+
+# Estimate linear regression with quadratic term
+mod1.lm <- lm(log(co2_pc) ~ log(gdp_pc) + I(log(gdp_pc)^2),
+              data = wd.df[wd.df$year == 2019,])
+
+summary(mod1.lm)
+```
+
+. . . 
+
+- Positive and highly significant linear term 
+- Negative and highly significant quadratic term 
+
+---
+
+## Really a "Curve"? {.smaller}
+
+```{r wdi_plot1, message=FALSE, warning=FALSE}
+#| echo: true
+#| code-fold: true
+#| code-summary: "show code"
+
+# Calculate maximum (turning point)
+b1 <- mod1.lm$coefficients["log(gdp_pc)"]
+b2 <- mod1.lm$coefficients["I(log(gdp_pc)^2)"]
+tp <- -b1 / (2 * b2)
+
+# load package
+library(ggplot2)
+
+# Plot 2019 data
+pl1 <- ggplot(wd.df[wd.df$year == 2019,],
+              aes(
+                x = gdp_pc,
+                y = co2_pc,
+                size = population,
+                color = region
+              )) +
+  geom_smooth(aes(group = 1), show.legend = "none") + 
+  geom_point(alpha = 0.5) +
+  geom_vline(xintercept = exp(tp), linetype="dotted") +
+  annotate(geom="text", x = 10000,  y = 0.1,
+           label = paste0("Turning point: ", 
+                          format(round(exp(tp), 0), big.mark = ","), 
+           " USD")) +
+  theme_minimal() + 
+  scale_y_log10() +  
+  scale_x_log10(labels = scales::dollar_format()) +
+  labs(y = "CO2 emissions per capita (log-transformed)", 
+       x = "GDP per capita (log-transformed)",
+       title = "Year: 2019")
+
+pl1
+```
+
+
+
+## Maybe over time? {.smaller}
+
+```{r wdi_plot2, message=FALSE, warning=FALSE}
+#| echo: true
+#| code-fold: true
+#| code-summary: "show code"
+
+# Load library
+library(gganimate)
+
+# Define a start and end year
+st <- 2009
+end <- 2019
+
+wd_sub.df <- wd.df[which(wd.df$year >= st & wd.df$year <= end), ]
+
+# duplicate 2019 data for each year
+tmp.df <- wd_sub.df[wd_sub.df$year == 2019, ]
+l <- nrow(tmp.df)
+tmp.df <- tmp.df[rep(seq_len(nrow(tmp.df)), 
+                     each = length(unique(wd_sub.df$year))), ]
+tmp.df$year <- rep(unique(wd_sub.df$year), times  = l)
+
+# Plot 2019 data
+pl2 <- ggplot(wd_sub.df,
+              aes(
+                x = gdp_pc,
+                y = co2_pc,
+              )) +
+  geom_smooth(mappping = aes(group = year), data =  tmp.df, 
+              show.legend = "none", se = FALSE, alpha = 0.5) + 
+  geom_point(aes(size = population,
+                color = region), alpha = 0.5) +
+  # geom_vline(xintercept = exp(tp), linetype="dotted") +
+  # annotate(geom="text", x = 10000,  y = 0.1,
+  #          label = paste0("Turning point: ", 
+  #                         format(round(exp(tp), 0), big.mark = ","), 
+  #          " USD")) +
+  theme_minimal() + 
+  scale_y_log10() +  
+  scale_x_log10(labels = scales::dollar_format()) +
+  labs(y = "CO2 emissions per capita (log-transformed)", 
+       x = "GDP per capita (log-transformed)") +
+  transition_time(year) +
+  labs(title = "Year: {frame_time}") +
+  shadow_wake(wake_length = 0.7, alpha = FALSE, wrap = FALSE)
+
+pl2
+```
+
+
+---
+
+## Economic recession
+
+What do you think happened during the financial crisis (2007/2008)? Can we learn something about the growth - degradation relation from the recession?
+
+. . .
+
+You can test your hypothesis by changing the starting and/or ending year in the code behind these slides:
+
+```{.r code-line-numbers="2,3"}
+# Define a start and end year
+st <- 2009
+end <- 2019
+
+wd_sub.df <- wd.df[which(wd.df$year >= st & wd.df$year <= end), ]
+```
+
+
+---
+
+## Key Takeaways {.smaller}
+
+
+- The EKC explores the relationship between economic growth and the environment.
+  - It suggests an inverted U-shaped curve, with a turning point of peak environmental degradation.
+  - Multiple factors, including scale, technology, and policy, influence the EKC.
+- Evidence varies, and the EKC is based on a fragile foundation.
+  - Wrong conclusion: de-emphasize environmental policy and pursue growth instead.
+  - EKC is overly simplistic.
+- Some optimism: There are downwards trends in emissions in several European countries.  
+
+---
+
+## Questions?
+
+- Do you have any questions about the Environmental Kuznets Curve?
+
+# Is this debate about the Environmental Kuznets Curve an old hat?
+
+---
+
+## Back to "decoupling" and "green growth" {.smaller}
+
+
+*For the best part of the past 200 years, one rule held across the world: if a country’s economic activity expanded, so did its carbon emissions. But starting in the 1980s with the advent of nuclear power, it became increasingly common to see countries cutting emissions while growing GDP.*
+
+*The pace of this decoupling has now accelerated as the shift from carbon-intensive manufacturing to services and from dirtier to relatively cleaner fossil fuels has been supercharged by proliferating cheap renewables.*
+
+
+John Burn-Murdoch in the [Financial Times (2022)](https://www.ft.com/content/967e1d77-8d3c-4256-9339-6ea7025cd5d3)
+
+---
+
+![Source: John Burn-Murdoch in the [Financial Times (2022)](https://www.ft.com/content/967e1d77-8d3c-4256-9339-6ea7025cd5d3)](figs/ft1.png)
+
+
+---
+
+## But rember the absolute levels
+
+*Over the past decade, some countries have reduced their CO2 emissions while increasing their gross domestic product (absolute decoupling). Politicians and media have hailed this as green growth.*
+
+*The emission reductions that high-income countries achieved through absolute decoupling fall far short of Paris-compliant rates. At the achieved rates, these countries would on average take more than 220 years to reduce their emissions by 95%*
+
+[@Vogel.2023]
+
+---
+
+## But rember the absolute levels
+
+![High-income countries that have recently achieved absolute decoupling. Source: @Vogel.2023](figs/hickel.jpg)
+
+## Still a long way
+
+![High-income countries that have recently achieved absolute decoupling. Source: @Vogel.2023](figs/hickel3.jpg)
+
+
+## Key Takeaways {.smaller}
+
+
+- "Green growth" (as EKC) alone is not going to solve the problem. 
+- Continued economic growth within 1.5°C fair-shares seems empirically out of reach, even for the best-performing countries.
+- @Vogel.2023 suggest post-growth approaches:
+    - reducing carbon-intensive and less-necessary production and consumption,
+    - shifting to low-carbon alternatives,
+    - abandoning the pursuit of aggregate economic growth.
+    
+. . .
+
+How to achieve in high-income countries?
+    
+
+---
+
+## References {.smaller}
