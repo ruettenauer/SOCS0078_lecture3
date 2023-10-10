@@ -30,39 +30,39 @@ This module introduces students to the politics, sociology, and economics of the
 
 ## Lecture 2: Population, Climate, and Policy
 
-- Human population and its impact on the environment
+- IPAT: Human population and its impact on the environment
 - Individual ecological footprint
 - The effect of climate change on population dynamics
 
-## Lecture 3: Impacts of Climate Change
+## Lecture 3: Macro-Economic Perspectives on Climate Change
+
+- Environmental Kuznets Curve and its relevance
+- Treadmill of Production
+- Green Growth and Degrowth
+
+## Lecture 4: Impacts of Climate Change
 
 - Air pollution and health
 - Extreme weather and health
 - Climate change and economic activities
 
-## Lecture 4: Extreme Weather Events and Climate Adaptation
+## Lecture 5: Extreme Weather Events and Climate Adaptation
 
 - Consequences of extreme weather events
 - Climate adaptation and resilience strategies
 - Private protection and public goods
 
-## Lecture 5: Prisoner Dilemma and Tragedy of the Commons
+## Lecture 6: Prisoner Dilemma and Tragedy of the Commons
 
 - Game theory and its application to environmental issues
 - Tragedy of the commons
 - Strategies for overcoming collective action problems
 
-## Lecture 6: Attitudes and Behaviour
+## Lecture 7: Attitudes and Behaviour
 
 - Environmental attitudes across time and space
 - Climate denial
 - The gap between attitudes and behaviour
-
-## Lecture 7: Macro-Economic Perspectives of Climate Change
-
-- Environmental Kuznets Curve and its relevance
-- Treadmill of Production
-- IPAT
 
 ## Lecture 8: Distributional Aspects of Climate Change
 

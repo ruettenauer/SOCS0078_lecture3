@@ -9,7 +9,7 @@ website:
       - href: index.qmd
         text: Home
       - href: lecture1.qmd
-        text: Macro-Econ
+        text: "Slides: Macro"
 
 format:
   html:

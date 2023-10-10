@@ -1,5 +1,5 @@
 ---
-title: "Macro-Economic Perspectives of Climate Change"
+title: "Macro-Economic Perspectives on Climate Change"
 author: "Tobias Rüttenauer"
 format:
   revealjs: 
@@ -21,34 +21,67 @@ date: "2023-10-11"
 
 John Burn-Murdoch in the [Financial Times (2022)](https://www.ft.com/content/967e1d77-8d3c-4256-9339-6ea7025cd5d3)
 
----
-
-## Macro-Economic Persepectives of Climate Change
-
-- What are the driving forces that produce the environmental impacts threatening sustainability?
-- Focus on macro-explanations rather than individual behaviour
 
 ---
 
-## Macro-Economic Persepectives of Climate Change
+## "Green growth is already here" {.smaller}
 
 ![](figs/meme5.jpg)
 
 
 ---
 
-## Human Ecological Model IPAT {.smaller}
+## Macro-Economic Perspectives on Climate Change {auto-animate=true}
 
-$$
-I = P*A*T
-$$
+- What are the driving forces that produce the environmental impacts and degradation?
+- Focus on macro-explanations rather than individual behaviour.
 
-- Long-standing formulation of how **I**mpacts on the environmental are the multiplicative product of: 
-   - **P**opulation, 
-   - **A**ffluence (per capita consumption or production), 
-   - **T**echnology (impact per unit of consumption or production)
+Three broader perspectives:
 
-[@Dietz.1994; @York.2003]
+:::: {.columns}
+
+::: {.column width="33%"}
+Human Ecology (e.g. IPAT)
+:::
+
+::: {.column width="33%"}
+Ecological Modernization
+:::
+
+::: {.column width="33%"}
+Political Economy (e.g. Treadmill)
+:::
+
+::::
+
+## Macro-Economic Perspectives on Climate Change {auto-animate=true}
+
+- What are the driving forces that produce the environmental impacts and degradation?
+- Focus on macro-explanations rather than individual behaviour.
+
+::: {style="margin-top: 30px; font-size: 2em; color: red;"}
+Ecological Modernization
+:::
+
+
+
+
+<!-- --- -->
+
+<!-- ## Remember: IPAT {.smaller} -->
+
+<!-- $$ -->
+<!-- I = P*A*T -->
+<!-- $$ -->
+
+<!-- - Human Ecological Model -->
+
+<!-- - Long-standing formulation of how **I**mpacts on the environmental are the multiplicative product of:  -->
+<!--    - **P**opulation,  -->
+<!--    - **A**ffluence (per capita consumption or production),  -->
+<!--    - **T**echnology (impact per unit of consumption or production) -->
+
+<!-- [@Dietz.1994; @York.2003] -->
 
 # Environmental Kuznets Curve
 
@@ -56,11 +89,11 @@ $$
 
 ## Environmental Kuznets Curve
 
-- The **Environmental Kuznets Curve (EKC)** explores the relationship between economic development and environmental quality.
-
 - Original Kuznets Curve [@Kuznets.1955] on the relation between economic growth and income inequality.
 
-- Reformulation by @Grossman.1995 applying the KC to environmental issues.
+- Reformulation by @Grossman.1995 applying the KC to environmental issues within a neoclassical tradition.
+
+- The **Environmental Kuznets Curve (EKC)** explores the relationship between economic development and environmental quality.
 
 ---
 
@@ -69,9 +102,9 @@ $$
 ::: {.callout-tip}
 ## Environmental Kuznets Curve
 
-*The environmental Kuznets curve (EKC) is a hypothesized relationship between various indicators of environmental degradation and income per capita.* 
+*"The environmental Kuznets curve (EKC) is a hypothesized relationship between various indicators of environmental degradation and income per capita.* 
 
-*In the early stages of economic growth degradation and pollution increase, but beyond some level of income per capita, which will vary for different indicators, the trend reverses, so that at high income levels economic growth leads to environmental improvement.*
+*In the early stages of economic growth degradation and pollution increase, but beyond some level of income per capita, which will vary for different indicators, the trend reverses, so that at high income levels economic growth leads to environmental improvement."*
 
 [@Stern.2004]
 :::
@@ -89,7 +122,7 @@ $$
 
 ## The Inverted U-Shape
 
-![Source: @Mitic.2019](figs/Environmental-Kuznets-Curve_W640.jpg)
+![](figs/KuznetsCurve.jpg)
 
 ---
 
@@ -115,7 +148,13 @@ Several factors influence the shape of the EKC:
 
 ---
 
-## Some questions for you
+## The Inverted U-Shape
+
+![](figs/KuznetsCurve2.jpg)
+
+---
+
+## What Do You Think?
 
 ![](figs/mentimeter_qr_code.png)
 
@@ -128,7 +167,7 @@ Several factors influence the shape of the EKC:
 
 ---
 
-## Your answers
+## Your Answers
 
 ```{=html}
 <div style='position: relative; padding-bottom: 56.25%; padding-top: 35px; height: 0; overflow: hidden;'><iframe sandbox='allow-scripts allow-same-origin allow-presentation' allowfullscreen='true' allowtransparency='true' frameborder='0' height='315' src='https://www.mentimeter.com/app/presentation/alkgsxr6zb4q55gndan66rufde5udm1z/embed' style='position: absolute; top: 0; left: 0; width: 100%; height: 100%;' width='420'></iframe></div>
@@ -147,7 +186,7 @@ Several factors influence the shape of the EKC:
 There are many more [@Stern.2004; @Stern.2017].
 
 
-# Some criticism 
+# Criticism 
 
 ---
 
@@ -157,7 +196,7 @@ There are many more [@Stern.2004; @Stern.2017].
 - Heteroskedasticity and modeling of non-linearity are common challenges.
 - @Stern.2004 noted that using data mainly from developed countries led to lower turning points.
 - Problem of cointegration in panel data (time-series wander together): how to separate (potentially independent) time-trends in the data?
-- Omitted variables bias: industrial trade, geographic region, urbanisation, ...? [@@York.2003]
+- Omitted variables bias: industrial trade, geographic region, urbanisation, ...? [@York.2003]
 :::
 
 ---
@@ -176,13 +215,13 @@ There are many more [@Stern.2004; @Stern.2017].
 
 ---
 
-## Alternatives and reformulations {.smaller}
+## Alternatives and Reformulations {.smaller}
 
 ![Source: @Dasgupta.2002](figs/Scenarios.png)
 
 ---
 
-## Treadmill of production  {.scrollable .smaller}
+## Treadmill of Production  {.scrollable .smaller}
 
 ::: {.incremental}
 - To maintain profits, producers must constantly seek to expand production.
@@ -198,7 +237,7 @@ There are many more [@Stern.2004; @Stern.2017].
 
 ---
 
-## Treadmill of production  {.scrollable .smaller}
+## Treadmill of Production  {.scrollable .smaller}
 
 ::: {.incremental}
 - Schnaiberg argues that producers won't internalize environmental costs willingly, as it reduces profits.
@@ -256,7 +295,7 @@ save(wd.df, file = "WDI_short.RData")
 
 ---
 
-## Empirical test using 2019 WDI data {.scrollable .smaller}
+## Empirical Test Using 2019 data {.scrollable .smaller}
 
 ```{r wdi_reg1, message=FALSE, warning=FALSE}
 #| echo: true
@@ -319,7 +358,7 @@ pl1
 
 
 
-## Maybe over time? {.smaller}
+## Maybe Over Time? {.smaller}
 
 ```{r wdi_plot2, message=FALSE, warning=FALSE}
 #| echo: true
@@ -372,7 +411,7 @@ pl2
 
 ---
 
-## Economic recession
+## Economic Recession
 
 What do you think happened during the financial crisis (2007/2008)? Can we learn something about the growth - degradation relation from the recession?
 
@@ -412,7 +451,7 @@ wd_sub.df <- wd.df[which(wd.df$year >= st & wd.df$year <= end), ]
 
 ---
 
-## Back to "decoupling" and "green growth" {.smaller}
+## Back to "Decoupling" and "Green Growth" {.smaller}
 
 
 *For the best part of the past 200 years, one rule held across the world: if a country’s economic activity expanded, so did its carbon emissions. But starting in the 1980s with the advent of nuclear power, it became increasingly common to see countries cutting emissions while growing GDP.*
@@ -429,7 +468,7 @@ John Burn-Murdoch in the [Financial Times (2022)](https://www.ft.com/content/967
 
 ---
 
-## But rember the absolute levels
+## But Remember the Absolute Level
 
 *Over the past decade, some countries have reduced their CO2 emissions while increasing their gross domestic product (absolute decoupling). Politicians and media have hailed this as green growth.*
 
@@ -439,11 +478,11 @@ John Burn-Murdoch in the [Financial Times (2022)](https://www.ft.com/content/967
 
 ---
 
-## But rember the absolute levels
+## But Remember the Absolute Level
 
 ![High-income countries that have recently achieved absolute decoupling. Source: @Vogel.2023](figs/hickel.jpg)
 
-## Still a long way
+## Still a Long Way
 
 ![High-income countries that have recently achieved absolute decoupling. Source: @Vogel.2023](figs/hickel3.jpg)
 
