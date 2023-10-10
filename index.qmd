@@ -58,7 +58,7 @@ This module introduces students to the politics, sociology, and economics of the
 - Climate denial
 - The gap between attitudes and behaviour
 
-## Lecture 7: Macro-Economic Persepectives of Climate Change
+## Lecture 7: Macro-Economic Perspectives of Climate Change
 
 - Environmental Kuznets Curve and its relevance
 - Treadmill of Production

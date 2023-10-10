@@ -1,5 +1,5 @@
 ---
-title: "Macro-Economic Persepectives of Climate Change"
+title: "Macro-Economic Perspectives of Climate Change"
 author: "Tobias Rüttenauer"
 format:
   revealjs: 
