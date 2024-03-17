@@ -13,6 +13,64 @@ date: "2023-10-11"
 ---
 
 
+## Climate Change {.smaller auto-animate=true}
+
+![](figs/copernicus2.png)
+
+Remember last summer? 
+
+It's getting warmer!
+
+## Climate Change {.smaller auto-animate=true}
+
+![](figs/copernicus1.png)
+
+It's getting warmer!
+
+Anomalies will become the new normal
+
+
+## Climate Change {.smaller auto-animate=true}
+
+![](figs/Lancet.PNG)
+
+Anomalies will become the new normal
+
+Particularly affecting the Global South!
+
+
+## Who's reponsible? {.smaller auto-animate=true}
+
+![](figs/footprint.png)
+
+:::: {.columns}
+
+::: {.column width="20%"}
+Biocapacity =
+:::
+
+::: {.column width="35%"}
+Biocapacity per person -
+:::
+
+::: {.column width="45%"}
+Ecological Footprint per person
+:::
+
+::::
+
+## Climate Change: Who's reponsible? {.smaller auto-animate=true}
+
+![](figs/footprint2.png)
+
+::: {style="font-size: 1.6em; color: red;"}
+Ecological Footprint per person
+:::
+
+Calculate your own: [https://www.footprintcalculator.org/home/en](https://www.footprintcalculator.org/home/en)
+
+
+
 ## "Green growth is already here" {.smaller}
 
 ![](figs/ft2.png)
@@ -269,8 +327,9 @@ WDIsearch("CO2.*capita")
 
 The code below uses the WDI API to retrieve the data and creates a dataframe of three indicators.
 
-```{r example_wdi_2, eval=TRUE, warning=FALSE}
+```{r example_wdi_2, eval=FALSE, warning=FALSE}
 #| echo: true
+#| cache: true
 
 # Define countries, indicators form above, and time period
 wd.df <- WDI(country = "all", 
@@ -301,6 +360,9 @@ save(wd.df, file = "WDI_short.RData")
 #| echo: true
 #| code-fold: true
 #| code-summary: "show code"
+#| cache: true
+
+load("WDI_short.RData")
 
 # Estimate linear regression with quadratic term
 mod1.lm <- lm(log(co2_pc) ~ log(gdp_pc) + I(log(gdp_pc)^2),
@@ -322,6 +384,7 @@ summary(mod1.lm)
 #| echo: true
 #| code-fold: true
 #| code-summary: "show code"
+#| cache: true
 
 # Calculate maximum (turning point)
 b1 <- mod1.lm$coefficients["log(gdp_pc)"]
@@ -364,6 +427,7 @@ pl1
 #| echo: true
 #| code-fold: true
 #| code-summary: "show code"
+#| cache: true
 
 # Load library
 library(gganimate)

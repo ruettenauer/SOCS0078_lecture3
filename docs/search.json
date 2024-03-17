@@ -221,7 +221,7 @@
     "href": "lecture1.html#empirical-test-using-2019-data",
     "title": "Macro-Economic Perspectives on Climate Change",
     "section": "Empirical Test Using 2019 data",
-    "text": "Empirical Test Using 2019 data\n\n\nshow code\n# Estimate linear regression with quadratic term\nmod1.lm &lt;- lm(log(co2_pc) ~ log(gdp_pc) + I(log(gdp_pc)^2),\n              data = wd.df[wd.df$year == 2019,])\n\nsummary(mod1.lm)\n\n\n\nCall:\nlm(formula = log(co2_pc) ~ log(gdp_pc) + I(log(gdp_pc)^2), data = wd.df[wd.df$year == \n    2019, ])\n\nResiduals:\n     Min       1Q   Median       3Q      Max \n-1.22641 -0.41558 -0.08828  0.34453  1.74668 \n\nCoefficients:\n                  Estimate Std. Error t value Pr(&gt;|t|)    \n(Intercept)      -20.03296    1.53141 -13.081  &lt; 2e-16 ***\nlog(gdp_pc)        3.97415    0.35818  11.095  &lt; 2e-16 ***\nI(log(gdp_pc)^2)  -0.17797    0.02059  -8.644 2.83e-15 ***\n---\nSignif. codes:  0 '***' 0.001 '**' 0.01 '*' 0.05 '.' 0.1 ' ' 1\n\nResidual standard error: 0.5768 on 181 degrees of freedom\n  (32 observations deleted due to missingness)\nMultiple R-squared:  0.8331,    Adjusted R-squared:  0.8312 \nF-statistic: 451.7 on 2 and 181 DF,  p-value: &lt; 2.2e-16\n\n\n\n\nPositive and highly significant linear term\nNegative and highly significant quadratic term"
+    "text": "Empirical Test Using 2019 data\n\n\nshow code\nload(\"WDI_short.RData\")\n\n# Estimate linear regression with quadratic term\nmod1.lm &lt;- lm(log(co2_pc) ~ log(gdp_pc) + I(log(gdp_pc)^2),\n              data = wd.df[wd.df$year == 2019,])\n\nsummary(mod1.lm)\n\n\n\nCall:\nlm(formula = log(co2_pc) ~ log(gdp_pc) + I(log(gdp_pc)^2), data = wd.df[wd.df$year == \n    2019, ])\n\nResiduals:\n     Min       1Q   Median       3Q      Max \n-1.21519 -0.40234 -0.09141  0.33265  1.75904 \n\nCoefficients:\n                  Estimate Std. Error t value Pr(&gt;|t|)    \n(Intercept)      -19.99727    1.54396 -12.952  &lt; 2e-16 ***\nlog(gdp_pc)        3.96016    0.36116  10.965  &lt; 2e-16 ***\nI(log(gdp_pc)^2)  -0.17695    0.02076  -8.525 5.89e-15 ***\n---\nSignif. codes:  0 '***' 0.001 '**' 0.01 '*' 0.05 '.' 0.1 ' ' 1\n\nResidual standard error: 0.5776 on 181 degrees of freedom\n  (31 observations deleted due to missingness)\nMultiple R-squared:  0.8339,    Adjusted R-squared:  0.832 \nF-statistic: 454.3 on 2 and 181 DF,  p-value: &lt; 2.2e-16\n\n\n\n\nPositive and highly significant linear term\nNegative and highly significant quadratic term"
   },
   {
     "objectID": "lecture1.html#really-a-curve",
@@ -299,5 +299,54 @@
     "title": "Macro-Economic Perspectives on Climate Change",
     "section": "References",
     "text": "References\n\n\n&lt;home&gt;\n\n\n\nArrow, Kenneth, Bert Bolin, Robert Costanza, Partha Dasgupta, Carl Folke, C. S. Holling, Bengt-Owe Jansson, et al. 1995. “Economic Growth, Carrying Capacity, and the Environment.” Science 268 (5210): 520–21. https://doi.org/10.1126/science.268.5210.520.\n\n\nDasgupta, Susmita, Benoit Laplante, Hua Wang, and David Wheeler. 2002. “Confronting the Environmental Kuznets Curve.” Journal of Economic Perspectives 16 (1): 147–68. https://doi.org/10.1257/0895330027157.\n\n\nGrossman, G. M., and A. B. Krueger. 1995. “Economic Growth and the Environment.” The Quarterly Journal of Economics 110 (2): 353–77. https://doi.org/10.2307/2118443.\n\n\nKuznets, Simon. 1955. “Economic Growth and Income Inequality.” The American Economic Review 45 (1): 1–28.\n\n\nSchnaiberg, Allan, David N. Pellow, and Adam Weinberg. 2002. “The Treadmill of Production and the Environmental State.” In The Environmental State Under Pressure, edited by Arthur P. J. Mol and Frederick H. Buttel, 15–32. Research in Social Problems and Public Policy. Amsterdam: Emerald Group Publishing Limited.\n\n\nSelden, Thomas M., and Daqing Song. 1994. “Environmental Quality and Development: Is There a Kuznets Curve for Air Pollution Emissions?” Journal of Environmental Economics and Management 27 (2): 147–62. https://doi.org/10.1006/jeem.1994.1031.\n\n\nStern, David I. 2004. “The Rise and Fall of the Environmental Kuznets Curve.” World Development 32 (8): 1419–39. https://doi.org/10.1016/j.worlddev.2004.03.004.\n\n\nStern, David I. 2017. “The Environmental Kuznets Curve After 25 Years.” Journal of Bioeconomics 19 (1): 7–28. https://doi.org/10.1007/s10818-017-9243-1.\n\n\nVogel, Jefim, and Jason Hickel. 2023. “Is Green Growth Happening? An Empirical Analysis of Achieved Versus Paris-compliant CO2 Decoupling in High-Income Countries.” The Lancet Planetary Health 7 (9): e759–69. https://doi.org/10.1016/S2542-5196(23)00174-2.\n\n\nYork, Richard, Eugene A. Rosa, and Thomas Dietz. 2003. “Footprints on the Earth: The Environmental Consequences of Modernity.” American Sociological Review 68 (2): 279–300. https://doi.org/10.2307/1519769."
+  },
+  {
+    "objectID": "lecture1.html#climate-change",
+    "href": "lecture1.html#climate-change",
+    "title": "Macro-Economic Perspectives on Climate Change",
+    "section": "Climate Change",
+    "text": "Climate Change\n\nRemember last summer?\nIt’s getting warmer!"
+  },
+  {
+    "objectID": "lecture1.html#climate-change-1",
+    "href": "lecture1.html#climate-change-1",
+    "title": "Macro-Economic Perspectives on Climate Change",
+    "section": "Climate Change",
+    "text": "Climate Change\n\nIt’s getting warmer!\nAnomalies will become the new normal"
+  },
+  {
+    "objectID": "lecture1.html#its-getting-warmer",
+    "href": "lecture1.html#its-getting-warmer",
+    "title": "Macro-Economic Perspectives on Climate Change",
+    "section": "It’s getting warmer!",
+    "text": "It’s getting warmer!\n\nAnomalies will become the new normal"
+  },
+  {
+    "objectID": "lecture1.html#anomalies-will-become-the-new-normal",
+    "href": "lecture1.html#anomalies-will-become-the-new-normal",
+    "title": "Macro-Economic Perspectives on Climate Change",
+    "section": "Anomalies will become the new normal",
+    "text": "Anomalies will become the new normal\n\nParticularly affecting the Global South!"
+  },
+  {
+    "objectID": "lecture1.html#whos-reponsible",
+    "href": "lecture1.html#whos-reponsible",
+    "title": "Macro-Economic Perspectives on Climate Change",
+    "section": "Who’s reponsible?",
+    "text": "Who’s reponsible?\n\n\n\nBiocapacity =\n\nBiocapacity per person -\n\nEcological Footprint per person"
+  },
+  {
+    "objectID": "lecture1.html#climate-change-whos-reponsible",
+    "href": "lecture1.html#climate-change-whos-reponsible",
+    "title": "Macro-Economic Perspectives on Climate Change",
+    "section": "Climate Change: Who’s reponsible?",
+    "text": "Climate Change: Who’s reponsible?\n\n\nEcological Footprint per person\n\nCalculate your own: https://www.footprintcalculator.org/home/en"
+  },
+  {
+    "objectID": "lecture1.html#climate-change-2",
+    "href": "lecture1.html#climate-change-2",
+    "title": "Macro-Economic Perspectives on Climate Change",
+    "section": "Climate Change",
+    "text": "Climate Change\n\nAnomalies will become the new normal\nParticularly affecting the Global South!"
   }
 ]
