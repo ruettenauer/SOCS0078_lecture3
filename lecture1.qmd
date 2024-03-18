@@ -593,7 +593,7 @@ Birthday on EVEN day (e.g. 18th, 22nd)
 ::: {.column width="50%"}
 Birthday on ODD day (e.g. 7th, 15th)
 
-![](figs/mentimeter_qr_code_A.png)
+![](figs/mentimeter_qr_code_B.png)
 
 :::
 
