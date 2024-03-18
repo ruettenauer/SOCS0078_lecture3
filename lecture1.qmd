@@ -69,7 +69,11 @@ Ecological Footprint per person
 
 Calculate your own: [https://www.footprintcalculator.org/home/en](https://www.footprintcalculator.org/home/en)
 
+## Climate Change
 
+::: {style="margin-top: 200px; font-size: 3em;"}
+Is there any hope?
+:::
 
 ## "Green growth is already here" {.smaller}
 
@@ -242,6 +246,14 @@ Several factors influence the shape of the EKC:
   - But turning points are much higher, at around $10,000
 
 There are many more [@Stern.2004; @Stern.2017].
+
+
+---
+
+## Early EKC Studies {.scrollable .smaller}
+
+
+![](figs/gossman.PNG)
 
 
 # Criticism 
@@ -564,7 +576,42 @@ John Burn-Murdoch in the [Financial Times (2022)](https://www.ft.com/content/967
 . . .
 
 How to achieve in high-income countries?
-    
+
+
+---
+
+## Your opnion {.smaller}
+
+:::: {.columns}
+
+::: {.column width="50%"}
+Birthday on EVEN day (e.g. 18th, 22nd)
+
+![](figs/mentimeter_qr_code_A.png)
+:::
+
+::: {.column width="50%"}
+Birthday on ODD day (e.g. 7th, 15th)
+
+![](figs/mentimeter_qr_code_A.png)
+
+:::
+
+::::
+
+
+## EVEN Answers
+
+```{=html}
+<div style='position: relative; padding-bottom: 56.25%; padding-top: 35px; height: 0; overflow: hidden;'><iframe sandbox='allow-scripts allow-same-origin allow-presentation' allowfullscreen='true' allowtransparency='true' frameborder='0' height='315' src='https://www.mentimeter.com/app/presentation/al4k2fqeg75xo6ft9vdznzbgm5y3ic9k/embed' style='position: absolute; top: 0; left: 0; width: 100%; height: 100%;' width='420'></iframe></div>
+```
+
+
+## ODD Answers
+
+```{=html}
+<div style='position: relative; padding-bottom: 56.25%; padding-top: 35px; height: 0; overflow: hidden;'><iframe sandbox='allow-scripts allow-same-origin allow-presentation' allowfullscreen='true' allowtransparency='true' frameborder='0' height='315' src='https://www.mentimeter.com/app/presentation/alf73rohipzwx7jdknm3u84bbhvvmqsk/embed' style='position: absolute; top: 0; left: 0; width: 100%; height: 100%;' width='420'></iframe></div>
+```
 
 ---
 
