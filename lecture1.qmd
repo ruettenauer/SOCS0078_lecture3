@@ -306,6 +306,25 @@ There are many more [@Stern.2004; @Stern.2017].
 
 # Criticism 
 
+
+---
+
+## Theoretical Challenges {.smaller}
+
+::: {.incremental}
+- Assumption that income is independent of environmental damage
+    - Effect of extreme weather on economy?
+- Differences between various pollutants
+    - Shift from one problem to another?
+- Externalisation and trade 
+    - Production vs. Consumption oriented measures of emission?
+    - Decrease of production in Global North based on increase in Global South?
+- Environmental regulations push pollution to the South?
+- Skewed distribution of income and wealth: increase concentrated among a small group.
+::: 
+
+[@Arrow.1995; @Stern.2017]
+
 ---
 
 ## Methodological Challenges  {.scrollable .smaller}
@@ -317,21 +336,11 @@ There are many more [@Stern.2004; @Stern.2017].
 - Omitted variables bias: industrial trade, geographic region, urbanisation, ...? [@York.2003]
 :::
 
----
-
-## Theoretical Challenges {.smaller}
-
-::: {.incremental}
-- A fundamental assumption of the EKC model is that income is independent of environmental damage.
-- There are likely differences between various pollutants.
-- Externalisation and trade: Decrease of production in global north based on increase in global south. 
-- Environmental regulations in global north may negatively impact global south.
-- Skewed distribution of income and wealth: increase concentrated among a small group.
-::: 
-
-[@Arrow.1995; @Stern.2017]
 
 ---
+
+
+
 
 ## Alternatives and Reformulations {.smaller}
 
