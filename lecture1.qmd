@@ -636,33 +636,33 @@ __Treadmill of production__
 
 
 
-<!-- ## Treadmill of Production  {.scrollable .smaller} -->
+## Treadmill of Production  {.scrollable .smaller}
 
-<!-- ::: {.incremental} -->
-<!-- - To maintain profits, producers must constantly seek to expand production. -->
-<!-- - Efficient technologies are adopted to increase profit per unit of labour -->
-<!--     - decreasing emissions, -->
-<!--     - but displacing workers. -->
-<!-- - To keep unemployment low and tax revenue high -->
-<!--     - Worker support increasing production -->
-<!--     - Governments support companies and expansions -->
-<!-- - The treadmill increases environmental impacts through resource demands and waste. -->
-<!-- ::: -->
+::: {.incremental}
+- To maintain profits, producers must constantly seek to expand production.
+- Efficient technologies are adopted to increase profit per unit of labour
+    - decreasing emissions,
+    - but displacing workers.
+- To keep unemployment low and tax revenue high
+    - Worker support increasing production
+    - Governments support companies and expansions
+- The treadmill increases environmental impacts through resource demands and waste.
+:::
 
-<!-- [@Schnaiberg.2002; Jorgenson.2012] -->
+[@Schnaiberg.2002; Jorgenson.2012]
 
-<!-- --- -->
+---
 
-<!-- ## Treadmill of Production  {.scrollable .smaller} -->
+## Treadmill of Production  {.scrollable .smaller}
 
-<!-- ::: {.incremental} -->
-<!-- - No internalisation of  environmental costs. -->
-<!-- - Capitalism is focused on profit and expansion. -->
-<!-- - Efficiency-improving technology leads only to reinvestment in production. -->
-<!-- - The solution, according to the treadmill perspective, is to restructure society to limit producer hegemony. -->
-<!-- ::: -->
+::: {.incremental}
+- No internalisation of  environmental costs.
+- Capitalism is focused on profit and expansion.
+- Efficiency-improving technology leads only to reinvestment in production.
+- The solution, according to the treadmill perspective, is to restructure society to limit producer hegemony.
+:::
 
-<!-- [@York.2003; Jorgenson.2012] -->
+[@York.2003; Jorgenson.2012]
 
 
 
@@ -688,19 +688,19 @@ Birthday on ODD day (e.g. 7th, 15th)
 ::::
 
 
-<!-- ## EVEN Answers -->
+## EVEN Answers
 
-<!-- ```{=html} -->
-<!-- <div style='position: relative; padding-bottom: 56.25%; padding-top: 35px; height: 0; overflow: hidden;'><iframe sandbox='allow-scripts allow-same-origin allow-presentation' allowfullscreen='true' allowtransparency='true' frameborder='0' height='315' src='https://www.mentimeter.com/app/presentation/al4k2fqeg75xo6ft9vdznzbgm5y3ic9k/embed' style='position: absolute; top: 0; left: 0; width: 100%; height: 100%;' width='420'></iframe></div> -->
-<!-- ``` -->
+```{=html}
+<div style='position: relative; padding-bottom: 56.25%; padding-top: 35px; height: 0; overflow: hidden;'><iframe sandbox='allow-scripts allow-same-origin allow-presentation' allowfullscreen='true' allowtransparency='true' frameborder='0' height='315' src='https://www.mentimeter.com/app/presentation/al4k2fqeg75xo6ft9vdznzbgm5y3ic9k/embed' style='position: absolute; top: 0; left: 0; width: 100%; height: 100%;' width='420'></iframe></div>
+```
 
 
-<!-- ## ODD Answers -->
+## ODD Answers
 
-<!-- ```{=html} -->
-<!-- <div style='position: relative; padding-bottom: 56.25%; padding-top: 35px; height: 0; overflow: hidden;'><iframe sandbox='allow-scripts allow-same-origin allow-presentation' allowfullscreen='true' allowtransparency='true' frameborder='0' height='315' src='https://www.mentimeter.com/app/presentation/alf73rohipzwx7jdknm3u84bbhvvmqsk/embed' style='position: absolute; top: 0; left: 0; width: 100%; height: 100%;' width='420'></iframe></div> -->
-<!-- ``` -->
+```{=html}
+<div style='position: relative; padding-bottom: 56.25%; padding-top: 35px; height: 0; overflow: hidden;'><iframe sandbox='allow-scripts allow-same-origin allow-presentation' allowfullscreen='true' allowtransparency='true' frameborder='0' height='315' src='https://www.mentimeter.com/app/presentation/alf73rohipzwx7jdknm3u84bbhvvmqsk/embed' style='position: absolute; top: 0; left: 0; width: 100%; height: 100%;' width='420'></iframe></div>
+```
 
-<!-- --- -->
+---
 
 ## References {.smaller}
