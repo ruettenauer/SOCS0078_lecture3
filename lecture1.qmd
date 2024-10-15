@@ -1,5 +1,5 @@
 ---
-title: "Macro-Economic Perspectives on Climate Change"
+title: "SOCS0078 - Macro-Economic Perspectives on Climate Change"
 author: "Tobias Rüttenauer"
 format:
   revealjs: 
@@ -8,72 +8,105 @@ format:
       buttons: false
     preview-links: auto
     css: styles.css
-    footer: <[home](/index.html)>
-date: "2024-03-18"
+    # footer: <[home](/index.html)>
+date: "2024-10-15"
 ---
 
 
-## Climate Change {.smaller auto-animate=true}
+<!-- ## Climate Change {.smaller auto-animate=true} -->
 
-![](figs/copernicus2.png)
+<!-- ![](figs/copernicus2.png) -->
 
-Remember last summer? 
+<!-- Remember last summer?  -->
 
-It's getting warmer!
+<!-- It's getting warmer! -->
 
-## Climate Change {.smaller auto-animate=true}
+<!-- ## Climate Change {.smaller auto-animate=true} -->
 
-![](figs/copernicus1.png)
+<!-- ![](figs/copernicus1.png) -->
 
-It's getting warmer!
+<!-- It's getting warmer! -->
 
-Anomalies will become the new normal
-
-
-## Climate Change {.smaller auto-animate=true}
-
-![](figs/Lancet.PNG)
-
-Anomalies will become the new normal
-
-Particularly affecting the Global South!
+<!-- Anomalies will become the new normal -->
 
 
-## Who's reponsible? {.smaller auto-animate=true}
+<!-- ## Climate Change {.smaller auto-animate=true} -->
 
-![](figs/footprint.png)
+<!-- ![](figs/Lancet.PNG) -->
 
-:::: {.columns}
+<!-- Anomalies will become the new normal -->
 
-::: {.column width="20%"}
-Biocapacity =
+<!-- Particularly affecting the Global South! -->
+
+
+<!-- ## Who's reponsible? {.smaller auto-animate=true} -->
+
+<!-- ![](figs/footprint.png) -->
+
+<!-- :::: {.columns} -->
+
+<!-- ::: {.column width="20%"} -->
+<!-- Biocapacity = -->
+<!-- ::: -->
+
+<!-- ::: {.column width="35%"} -->
+<!-- Biocapacity per person - -->
+<!-- ::: -->
+
+<!-- ::: {.column width="45%"} -->
+<!-- Ecological Footprint per person -->
+<!-- ::: -->
+
+<!-- :::: -->
+
+<!-- ## Climate Change: Who's reponsible? {.smaller auto-animate=true} -->
+
+<!-- ![](figs/footprint2.png) -->
+
+<!-- ::: {style="font-size: 1.6em; color: red;"} -->
+<!-- Ecological Footprint per person -->
+<!-- ::: -->
+
+<!-- Calculate your own: [https://www.footprintcalculator.org/home/en](https://www.footprintcalculator.org/home/en) -->
+
+<!-- ## Climate Change -->
+
+<!-- ::: {style="margin-top: 200px; font-size: 3em;"} -->
+<!-- Is there any hope? -->
+<!-- ::: -->
+
+# Last week
+
+
+## The Populsation Bomb and IPAT
+
+::: {.incremental}
+- `Malthusian trap': Overpopulation & inevitable disaster
+
+- Paul Ehrlich's The Population Bomb (1968)
+
+- \begin{equation*}
+            I = P \times A \times T
+        \end{equation*}
 :::
 
-::: {.column width="35%"}
-Biocapacity per person -
-:::
 
-::: {.column width="45%"}
-Ecological Footprint per person
-:::
+## Climate & Population Dynamics
 
-::::
+![](figs/Population-Climate.png)
 
-## Climate Change: Who's reponsible? {.smaller auto-animate=true}
 
-![](figs/footprint2.png)
+## Socio-economic Pathways (SSP)
 
-::: {style="font-size: 1.6em; color: red;"}
-Ecological Footprint per person
-:::
+![](figs/ssp-graphics-01-1.png)
 
-Calculate your own: [https://www.footprintcalculator.org/home/en](https://www.footprintcalculator.org/home/en)
 
-## Climate Change
+## Socio-economic Pathways (SSP)
 
-::: {style="margin-top: 200px; font-size: 3em;"}
-Is there any hope?
-:::
+![](figs/SSP4.png)
+
+
+# Macro-Economic Perspectives on Climate Change
 
 ## "Green growth is already here" {.smaller}
 
@@ -149,11 +182,26 @@ Ecological Modernization
 
 ---
 
-## Environmental Kuznets Curve
+## Kuznets Curve
 
 - Original Kuznets Curve [@Kuznets.1955] on the relation between economic growth and income inequality.
 
-- Reformulation by @Grossman.1995 applying the KC to environmental issues within a neoclassical tradition.
+- Increasing economic growth first increases, then decreases inequality
+
+- Industrialisation profits mainly the capitalists
+
+- Industrialisation pushes rural farmers into the city, reducing wages
+
+- Turning point: Democratisation & rise of welfare state
+
+
+---
+
+## Environmental Kuznets Curve
+
+- Within a neoclassical tradition
+
+- Reformulation by @Grossman.1995 applying the KC to environmental issues.
 
 - The **Environmental Kuznets Curve (EKC)** explores the relationship between economic development and environmental quality.
 
@@ -290,33 +338,6 @@ There are many more [@Stern.2004; @Stern.2017].
 ![Source: @Dasgupta.2002](figs/Scenarios.png)
 
 ---
-
-## Treadmill of Production  {.scrollable .smaller}
-
-::: {.incremental}
-- To maintain profits, producers must constantly seek to expand production.
-- Efficient technologies are adopted to increase yields per unit of labour
-    - decreasing emissions,
-    - but displacing workers.
-- Workers, fearing unemployment, support increased production, creating a cycle.
-- Governments support increased production for tax revenues.
-- The treadmill increases environmental impacts through resource demands and waste.
-:::
-
-[@Schnaiberg.2002; @York.2003]
-
----
-
-## Treadmill of Production  {.scrollable .smaller}
-
-::: {.incremental}
-- Schnaiberg argues that producers won't internalize environmental costs willingly, as it reduces profits.
-- Reform-oriented actions may not significantly alter producer power or reduce environmental externalities.
-- The solution, according to the treadmill perspective, is to restructure society to limit producer hegemony.
-- Efficiency-improving technology, in contrast, ultimately leads to increased impacts due to reinvestment in production.
-:::
-
-[@York.2003]
 
 # Let's have a look at some data
 
@@ -487,21 +508,21 @@ pl2
 
 ---
 
-## Economic Recession
+<!-- ## Economic Recession -->
 
-What do you think happened during the financial crisis (2007/2008)? Can we learn something about the growth - degradation relation from the recession?
+<!-- What do you think happened during the financial crisis (2007/2008)? Can we learn something about the growth - degradation relation from the recession? -->
 
-. . .
+<!-- . . . -->
 
-You can test your hypothesis by changing the starting and/or ending year in the code behind these slides:
+<!-- You can test your hypothesis by changing the starting and/or ending year in the code behind these slides: -->
 
-```{.r code-line-numbers="2,3"}
-# Define a start and end year
-st <- 2009
-end <- 2019
+<!-- ```{.r code-line-numbers="2,3"} -->
+<!-- # Define a start and end year -->
+<!-- st <- 2009 -->
+<!-- end <- 2019 -->
 
-wd_sub.df <- wd.df[which(wd.df$year >= st & wd.df$year <= end), ]
-```
+<!-- wd_sub.df <- wd.df[which(wd.df$year >= st & wd.df$year <= end), ] -->
+<!-- ``` -->
 
 
 ---
@@ -563,6 +584,11 @@ John Burn-Murdoch in the [Financial Times (2022)](https://www.ft.com/content/967
 ![High-income countries that have recently achieved absolute decoupling. Source: @Vogel.2023](figs/hickel3.jpg)
 
 
+## What we would need
+
+![Source: @Vogel.2023](figs/hickel.png)
+
+
 ## Key Takeaways {.smaller}
 
 
@@ -578,41 +604,92 @@ John Burn-Murdoch in the [Financial Times (2022)](https://www.ft.com/content/967
 How to achieve in high-income countries?
 
 
----
+## "Green growth is already here" {.smaller}
 
-## Your opnion {.smaller}
+![](figs/meme8.png)
+
+
+## Treadmill of Production 
 
 :::: {.columns}
 
-::: {.column width="50%"}
-Birthday on EVEN day (e.g. 18th, 22nd)
-
-![](figs/mentimeter_qr_code_A.png)
+::: {.column width="45%"}
+__Ecological Modernization__
 :::
 
-::: {.column width="50%"}
-Birthday on ODD day (e.g. 7th, 15th)
-
-![](figs/mentimeter_qr_code_B.png)
-
+::: {.column width="45%"}
+__Treadmill of production__
 :::
 
 ::::
 
 
-## EVEN Answers
 
-```{=html}
-<div style='position: relative; padding-bottom: 56.25%; padding-top: 35px; height: 0; overflow: hidden;'><iframe sandbox='allow-scripts allow-same-origin allow-presentation' allowfullscreen='true' allowtransparency='true' frameborder='0' height='315' src='https://www.mentimeter.com/app/presentation/al4k2fqeg75xo6ft9vdznzbgm5y3ic9k/embed' style='position: absolute; top: 0; left: 0; width: 100%; height: 100%;' width='420'></iframe></div>
-```
+<!-- ## Treadmill of Production  {.scrollable .smaller} -->
+
+<!-- ::: {.incremental} -->
+<!-- - To maintain profits, producers must constantly seek to expand production. -->
+<!-- - Efficient technologies are adopted to increase profit per unit of labour -->
+<!--     - decreasing emissions, -->
+<!--     - but displacing workers. -->
+<!-- - To keep unemployment low and tax revenue high -->
+<!--     - Worker support increasing production -->
+<!--     - Governments support companies and expansions -->
+<!-- - The treadmill increases environmental impacts through resource demands and waste. -->
+<!-- ::: -->
+
+<!-- [@Schnaiberg.2002; Jorgenson.2012] -->
+
+<!-- --- -->
+
+<!-- ## Treadmill of Production  {.scrollable .smaller} -->
+
+<!-- ::: {.incremental} -->
+<!-- - No internalisation of  environmental costs. -->
+<!-- - Capitalism is focused on profit and expansion. -->
+<!-- - Efficiency-improving technology leads only to reinvestment in production. -->
+<!-- - The solution, according to the treadmill perspective, is to restructure society to limit producer hegemony. -->
+<!-- ::: -->
+
+<!-- [@York.2003; Jorgenson.2012] -->
 
 
-## ODD Answers
 
-```{=html}
-<div style='position: relative; padding-bottom: 56.25%; padding-top: 35px; height: 0; overflow: hidden;'><iframe sandbox='allow-scripts allow-same-origin allow-presentation' allowfullscreen='true' allowtransparency='true' frameborder='0' height='315' src='https://www.mentimeter.com/app/presentation/alf73rohipzwx7jdknm3u84bbhvvmqsk/embed' style='position: absolute; top: 0; left: 0; width: 100%; height: 100%;' width='420'></iframe></div>
-```
+<!-- --- -->
 
----
+<!-- ## Your opnion {.smaller} -->
+
+<!-- :::: {.columns} -->
+
+<!-- ::: {.column width="50%"} -->
+<!-- Birthday on EVEN day (e.g. 18th, 22nd) -->
+
+<!-- ![](figs/mentimeter_qr_code_A.png) -->
+<!-- ::: -->
+
+<!-- ::: {.column width="50%"} -->
+<!-- Birthday on ODD day (e.g. 7th, 15th) -->
+
+<!-- ![](figs/mentimeter_qr_code_B.png) -->
+
+<!-- ::: -->
+
+<!-- :::: -->
+
+
+<!-- ## EVEN Answers -->
+
+<!-- ```{=html} -->
+<!-- <div style='position: relative; padding-bottom: 56.25%; padding-top: 35px; height: 0; overflow: hidden;'><iframe sandbox='allow-scripts allow-same-origin allow-presentation' allowfullscreen='true' allowtransparency='true' frameborder='0' height='315' src='https://www.mentimeter.com/app/presentation/al4k2fqeg75xo6ft9vdznzbgm5y3ic9k/embed' style='position: absolute; top: 0; left: 0; width: 100%; height: 100%;' width='420'></iframe></div> -->
+<!-- ``` -->
+
+
+<!-- ## ODD Answers -->
+
+<!-- ```{=html} -->
+<!-- <div style='position: relative; padding-bottom: 56.25%; padding-top: 35px; height: 0; overflow: hidden;'><iframe sandbox='allow-scripts allow-same-origin allow-presentation' allowfullscreen='true' allowtransparency='true' frameborder='0' height='315' src='https://www.mentimeter.com/app/presentation/alf73rohipzwx7jdknm3u84bbhvvmqsk/embed' style='position: absolute; top: 0; left: 0; width: 100%; height: 100%;' width='420'></iframe></div> -->
+<!-- ``` -->
+
+<!-- --- -->
 
 ## References {.smaller}

@@ -1,387 +1,268 @@
 [
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Climate Change and Environment",
-    "section": "",
-    "text": "This module introduces students to the politics, sociology, and economics of the environment and climate change. Topics covered include the changing public opinion on climate change, the social bases of pro-environment behavior, the prisoner dilemma and tragedy of the commons, and the challenge of designing effective policy responses at the national and international level. Moreover, we investigate the role of public opinion and social movements in shaping environmental policy. Finally, we consider the unequal economic and social impact of climate change, including distributional aspects and consequences of extreme weather events."
+    "objectID": "lecture1.html#the-populsation-bomb-and-ipat",
+    "href": "lecture1.html#the-populsation-bomb-and-ipat",
+    "title": "SOCS0078 - Macro-Economic Perspectives on Climate Change",
+    "section": "The Populsation Bomb and IPAT",
+    "text": "The Populsation Bomb and IPAT\n\n\n`Malthusian trap’: Overpopulation & inevitable disaster\nPaul Ehrlich’s The Population Bomb (1968)\n\\[\\begin{equation*}\n          I = P \\times A \\times T\n      \\end{equation*}\\]"
   },
   {
-    "objectID": "index.html#lecture-0-introduction-to-climate-change-and-environmental-politics",
-    "href": "index.html#lecture-0-introduction-to-climate-change-and-environmental-politics",
-    "title": "Climate Change and Environment",
-    "section": "Lecture 0: Introduction to Climate Change and Environmental Politics",
-    "text": "Lecture 0: Introduction to Climate Change and Environmental Politics\n\nOverview of the module\nImportance of understanding climate change and environment for social scientists"
+    "objectID": "lecture1.html#climate-population-dynamics",
+    "href": "lecture1.html#climate-population-dynamics",
+    "title": "SOCS0078 - Macro-Economic Perspectives on Climate Change",
+    "section": "Climate & Population Dynamics",
+    "text": "Climate & Population Dynamics"
   },
   {
-    "objectID": "index.html#lecture-1-the-science-of-climate-change",
-    "href": "index.html#lecture-1-the-science-of-climate-change",
-    "title": "Climate Change and Environment",
-    "section": "Lecture 1: The Science of Climate Change",
-    "text": "Lecture 1: The Science of Climate Change\n\nMeasuring and modeling climate\nEvidence of anthropogenic climate change"
+    "objectID": "lecture1.html#socio-economic-pathways-ssp",
+    "href": "lecture1.html#socio-economic-pathways-ssp",
+    "title": "SOCS0078 - Macro-Economic Perspectives on Climate Change",
+    "section": "Socio-economic Pathways (SSP)",
+    "text": "Socio-economic Pathways (SSP)"
   },
   {
-    "objectID": "index.html#lecture-2-population-climate-and-policy",
-    "href": "index.html#lecture-2-population-climate-and-policy",
-    "title": "Climate Change and Environment",
-    "section": "Lecture 2: Population, Climate, and Policy",
-    "text": "Lecture 2: Population, Climate, and Policy\n\nIPAT: Human population and its impact on the environment\nIndividual ecological footprint\nThe effect of climate change on population dynamics"
-  },
-  {
-    "objectID": "index.html#lecture-3-macro-economic-perspectives-on-climate-change",
-    "href": "index.html#lecture-3-macro-economic-perspectives-on-climate-change",
-    "title": "Climate Change and Environment",
-    "section": "Lecture 3: Macro-Economic Perspectives on Climate Change",
-    "text": "Lecture 3: Macro-Economic Perspectives on Climate Change\n\nEnvironmental Kuznets Curve and its relevance\nTreadmill of Production\nGreen Growth and Degrowth"
-  },
-  {
-    "objectID": "index.html#lecture-4-impacts-of-climate-change",
-    "href": "index.html#lecture-4-impacts-of-climate-change",
-    "title": "Climate Change and Environment",
-    "section": "Lecture 4: Impacts of Climate Change",
-    "text": "Lecture 4: Impacts of Climate Change\n\nAir pollution and health\nExtreme weather and health\nClimate change and economic activities"
-  },
-  {
-    "objectID": "index.html#lecture-5-extreme-weather-events-and-climate-adaptation",
-    "href": "index.html#lecture-5-extreme-weather-events-and-climate-adaptation",
-    "title": "Climate Change and Environment",
-    "section": "Lecture 5: Extreme Weather Events and Climate Adaptation",
-    "text": "Lecture 5: Extreme Weather Events and Climate Adaptation\n\nConsequences of extreme weather events\nClimate adaptation and resilience strategies\nPrivate protection and public goods"
-  },
-  {
-    "objectID": "index.html#lecture-6-prisoner-dilemma-and-tragedy-of-the-commons",
-    "href": "index.html#lecture-6-prisoner-dilemma-and-tragedy-of-the-commons",
-    "title": "Climate Change and Environment",
-    "section": "Lecture 6: Prisoner Dilemma and Tragedy of the Commons",
-    "text": "Lecture 6: Prisoner Dilemma and Tragedy of the Commons\n\nGame theory and its application to environmental issues\nTragedy of the commons\nStrategies for overcoming collective action problems"
-  },
-  {
-    "objectID": "index.html#lecture-7-attitudes-and-behaviour",
-    "href": "index.html#lecture-7-attitudes-and-behaviour",
-    "title": "Climate Change and Environment",
-    "section": "Lecture 7: Attitudes and Behaviour",
-    "text": "Lecture 7: Attitudes and Behaviour\n\nEnvironmental attitudes across time and space\nClimate denial\nThe gap between attitudes and behaviour"
-  },
-  {
-    "objectID": "index.html#lecture-8-distributional-aspects-of-climate-change",
-    "href": "index.html#lecture-8-distributional-aspects-of-climate-change",
-    "title": "Climate Change and Environment",
-    "section": "Lecture 8: Distributional Aspects of Climate Change",
-    "text": "Lecture 8: Distributional Aspects of Climate Change\n\nClimate justice and equity considerations\nDisproportionate impacts on marginalized communities\nPolicy approaches to address distributional issues"
-  },
-  {
-    "objectID": "index.html#lecture-9-policies-and-institutions",
-    "href": "index.html#lecture-9-policies-and-institutions",
-    "title": "Climate Change and Environment",
-    "section": "Lecture 9: Policies and Institutions",
-    "text": "Lecture 9: Policies and Institutions\n\nCarbon pricing, carbon tax\nThe impact of international agreements\nSecond order problem of collective action"
-  },
-  {
-    "objectID": "index.html#lecture-10-public-opinion-and-social-movements",
-    "href": "index.html#lecture-10-public-opinion-and-social-movements",
-    "title": "Climate Change and Environment",
-    "section": "Lecture 10: Public Opinion and Social Movements",
-    "text": "Lecture 10: Public Opinion and Social Movements\n\nInfluence of public opinion on policy decisions\nSocial movements advocating for climate action\nRole of social movements in environmental change"
+    "objectID": "lecture1.html#socio-economic-pathways-ssp-1",
+    "href": "lecture1.html#socio-economic-pathways-ssp-1",
+    "title": "SOCS0078 - Macro-Economic Perspectives on Climate Change",
+    "section": "Socio-economic Pathways (SSP)",
+    "text": "Socio-economic Pathways (SSP)"
   },
   {
     "objectID": "lecture1.html#green-growth-is-already-here",
     "href": "lecture1.html#green-growth-is-already-here",
-    "title": "Macro-Economic Perspectives on Climate Change",
+    "title": "SOCS0078 - Macro-Economic Perspectives on Climate Change",
     "section": "“Green growth is already here”",
     "text": "“Green growth is already here”\n\nIn 2016, 70 countries — more than one in three worldwide — had a run of at least five years in which carbon emissions declined while GDP grew. Green growth is already here.\nJohn Burn-Murdoch in the Financial Times (2022)"
   },
   {
     "objectID": "lecture1.html#green-growth-is-already-here-1",
     "href": "lecture1.html#green-growth-is-already-here-1",
-    "title": "Macro-Economic Perspectives on Climate Change",
+    "title": "SOCS0078 - Macro-Economic Perspectives on Climate Change",
     "section": "“Green growth is already here”",
     "text": "“Green growth is already here”"
   },
   {
-    "objectID": "lecture1.html#macro-economic-perspectives-on-climate-change",
-    "href": "lecture1.html#macro-economic-perspectives-on-climate-change",
-    "title": "Macro-Economic Perspectives on Climate Change",
+    "objectID": "lecture1.html#macro-economic-perspectives-on-climate-change-1",
+    "href": "lecture1.html#macro-economic-perspectives-on-climate-change-1",
+    "title": "SOCS0078 - Macro-Economic Perspectives on Climate Change",
     "section": "Macro-Economic Perspectives on Climate Change",
     "text": "Macro-Economic Perspectives on Climate Change\n\nWhat are the driving forces that produce the environmental impacts and degradation?\nFocus on macro-explanations rather than individual behaviour.\n\nThree broader perspectives:\n\n\nHuman Ecology (e.g. IPAT)\n\nEcological Modernization\n\nPolitical Economy (e.g. Treadmill)"
   },
   {
-    "objectID": "lecture1.html#macro-economic-perspectives-on-climate-change-1",
-    "href": "lecture1.html#macro-economic-perspectives-on-climate-change-1",
-    "title": "Macro-Economic Perspectives on Climate Change",
+    "objectID": "lecture1.html#macro-economic-perspectives-on-climate-change-2",
+    "href": "lecture1.html#macro-economic-perspectives-on-climate-change-2",
+    "title": "SOCS0078 - Macro-Economic Perspectives on Climate Change",
     "section": "Macro-Economic Perspectives on Climate Change",
     "text": "Macro-Economic Perspectives on Climate Change\n\nWhat are the driving forces that produce the environmental impacts and degradation?\nFocus on macro-explanations rather than individual behaviour.\n\n\nEcological Modernization"
   },
   {
+    "objectID": "lecture1.html#kuznets-curve",
+    "href": "lecture1.html#kuznets-curve",
+    "title": "SOCS0078 - Macro-Economic Perspectives on Climate Change",
+    "section": "Kuznets Curve",
+    "text": "Kuznets Curve\n\nOriginal Kuznets Curve (Kuznets 1955) on the relation between economic growth and income inequality.\nIncreasing economic growth first increases, then decreases inequality\nIndustrialisation profits mainly the capitalists\nIndustrialisation pushes rural farmers into the city, reducing wages\nTurning point: Democratisation & rise of welfare state"
+  },
+  {
     "objectID": "lecture1.html#environmental-kuznets-curve-1",
     "href": "lecture1.html#environmental-kuznets-curve-1",
-    "title": "Macro-Economic Perspectives on Climate Change",
+    "title": "SOCS0078 - Macro-Economic Perspectives on Climate Change",
     "section": "Environmental Kuznets Curve",
-    "text": "Environmental Kuznets Curve\n\nOriginal Kuznets Curve (Kuznets 1955) on the relation between economic growth and income inequality.\nReformulation by Grossman and Krueger (1995) applying the KC to environmental issues within a neoclassical tradition.\nThe Environmental Kuznets Curve (EKC) explores the relationship between economic development and environmental quality."
+    "text": "Environmental Kuznets Curve\n\nWithin a neoclassical tradition\nReformulation by Grossman and Krueger (1995) applying the KC to environmental issues.\nThe Environmental Kuznets Curve (EKC) explores the relationship between economic development and environmental quality."
   },
   {
     "objectID": "lecture1.html#what-is-the-ekc",
     "href": "lecture1.html#what-is-the-ekc",
-    "title": "Macro-Economic Perspectives on Climate Change",
+    "title": "SOCS0078 - Macro-Economic Perspectives on Climate Change",
     "section": "What is the EKC?",
     "text": "What is the EKC?\n\n\n\n\n\n\nEnvironmental Kuznets Curve\n\n\n“The environmental Kuznets curve (EKC) is a hypothesized relationship between various indicators of environmental degradation and income per capita.\nIn the early stages of economic growth degradation and pollution increase, but beyond some level of income per capita, which will vary for different indicators, the trend reverses, so that at high income levels economic growth leads to environmental improvement.”\n(David I. Stern 2004)"
   },
   {
     "objectID": "lecture1.html#the-inverted-u-shape",
     "href": "lecture1.html#the-inverted-u-shape",
-    "title": "Macro-Economic Perspectives on Climate Change",
+    "title": "SOCS0078 - Macro-Economic Perspectives on Climate Change",
     "section": "The Inverted U-Shape",
     "text": "The Inverted U-Shape\n\nIn the EKC, environmental impact is often depicted as an inverted U-shaped curve:\n\nInitial stage: Environmental degradation increases as economies grow.\nTurning point: At a certain income level, environmental degradation peaks.\nLater stage: Beyond the turning point, further economic growth leads to environmental improvement."
   },
   {
     "objectID": "lecture1.html#the-inverted-u-shape-1",
     "href": "lecture1.html#the-inverted-u-shape-1",
-    "title": "Macro-Economic Perspectives on Climate Change",
+    "title": "SOCS0078 - Macro-Economic Perspectives on Climate Change",
     "section": "The Inverted U-Shape",
     "text": "The Inverted U-Shape"
   },
   {
     "objectID": "lecture1.html#factors-influencing-the-ekc",
     "href": "lecture1.html#factors-influencing-the-ekc",
-    "title": "Macro-Economic Perspectives on Climate Change",
+    "title": "SOCS0078 - Macro-Economic Perspectives on Climate Change",
     "section": "Factors Influencing the EKC",
     "text": "Factors Influencing the EKC\nSeveral factors influence the shape of the EKC:\n\n\nScale Effect: Economic growth leads to increased resource use and pollution.\nChanges in Industry: Shifts from heavy industry to services can impact emissions.\nChanges in Input: Shifts towards more sustainable resources for production.\nTechnological Change: Advancements can lead to cleaner production processes.\n\nProduction efficiency: Using less input/resources.\nEmission efficiency: Same input producing less emissions. \n\n\n\n(David I. Stern 2004; David I. Stern 2017)"
   },
   {
     "objectID": "lecture1.html#the-inverted-u-shape-2",
     "href": "lecture1.html#the-inverted-u-shape-2",
-    "title": "Macro-Economic Perspectives on Climate Change",
+    "title": "SOCS0078 - Macro-Economic Perspectives on Climate Change",
     "section": "The Inverted U-Shape",
     "text": "The Inverted U-Shape"
   },
   {
     "objectID": "lecture1.html#what-do-you-think",
     "href": "lecture1.html#what-do-you-think",
-    "title": "Macro-Economic Perspectives on Climate Change",
+    "title": "SOCS0078 - Macro-Economic Perspectives on Climate Change",
     "section": "What Do You Think?",
     "text": "What Do You Think?\n\nhttps://www.menti.com/alpxnk7jdxfm\n\n&lt;Link to results&gt;"
   },
   {
     "objectID": "lecture1.html#your-answers",
     "href": "lecture1.html#your-answers",
-    "title": "Macro-Economic Perspectives on Climate Change",
+    "title": "SOCS0078 - Macro-Economic Perspectives on Climate Change",
     "section": "Your Answers",
     "text": "Your Answers"
   },
   {
     "objectID": "lecture1.html#early-ekc-studies",
     "href": "lecture1.html#early-ekc-studies",
-    "title": "Macro-Economic Perspectives on Climate Change",
+    "title": "SOCS0078 - Macro-Economic Perspectives on Climate Change",
     "section": "Early EKC Studies",
     "text": "Early EKC Studies\n\nGrossman and Krueger (1995) estimated EKCs for SO2, dark matter, and heavy particles\n\nThey used a cubic function of GDP per capita and found turning points at around $4,000–5,000.\n\nSelden and Song (1994) estimate the effect on dioxide, oxides of nitrogen, and carbon monoxide\n\nThey confirm the inverted U-shaped relationship\nBut turning points are much higher, at around $10,000\n\n\nThere are many more (David I. Stern 2004; David I. Stern 2017)."
   },
   {
+    "objectID": "lecture1.html#early-ekc-studies-1",
+    "href": "lecture1.html#early-ekc-studies-1",
+    "title": "SOCS0078 - Macro-Economic Perspectives on Climate Change",
+    "section": "Early EKC Studies",
+    "text": "Early EKC Studies"
+  },
+  {
     "objectID": "lecture1.html#methodological-challenges",
     "href": "lecture1.html#methodological-challenges",
-    "title": "Macro-Economic Perspectives on Climate Change",
+    "title": "SOCS0078 - Macro-Economic Perspectives on Climate Change",
     "section": "Methodological Challenges",
     "text": "Methodological Challenges\n\n\nHeteroskedasticity and modeling of non-linearity are common challenges.\nDavid I. Stern (2004) noted that using data mainly from developed countries led to lower turning points.\nProblem of cointegration in panel data (time-series wander together): how to separate (potentially independent) time-trends in the data?\nOmitted variables bias: industrial trade, geographic region, urbanisation, …? (York, Rosa, and Dietz 2003)"
   },
   {
     "objectID": "lecture1.html#theoretical-challenges",
     "href": "lecture1.html#theoretical-challenges",
-    "title": "Macro-Economic Perspectives on Climate Change",
+    "title": "SOCS0078 - Macro-Economic Perspectives on Climate Change",
     "section": "Theoretical Challenges",
     "text": "Theoretical Challenges\n\n\nA fundamental assumption of the EKC model is that income is independent of environmental damage.\nThere are likely differences between various pollutants.\nExternalisation and trade: Decrease of production in global north based on increase in global south.\nEnvironmental regulations in global north may negatively impact global south.\nSkewed distribution of income and wealth: increase concentrated among a small group.\n\n\n(Arrow et al. 1995; David I. Stern 2017)"
   },
   {
     "objectID": "lecture1.html#alternatives-and-reformulations",
     "href": "lecture1.html#alternatives-and-reformulations",
-    "title": "Macro-Economic Perspectives on Climate Change",
+    "title": "SOCS0078 - Macro-Economic Perspectives on Climate Change",
     "section": "Alternatives and Reformulations",
     "text": "Alternatives and Reformulations\n\nSource: Dasgupta et al. (2002)"
   },
   {
-    "objectID": "lecture1.html#treadmill-of-production",
-    "href": "lecture1.html#treadmill-of-production",
-    "title": "Macro-Economic Perspectives on Climate Change",
-    "section": "Treadmill of Production",
-    "text": "Treadmill of Production\n\n\nTo maintain profits, producers must constantly seek to expand production.\nEfficient technologies are adopted to increase yields per unit of labour\n\ndecreasing emissions,\nbut displacing workers.\n\nWorkers, fearing unemployment, support increased production, creating a cycle.\nGovernments support increased production for tax revenues.\nThe treadmill increases environmental impacts through resource demands and waste.\n\n\n(Schnaiberg, Pellow, and Weinberg 2002; York, Rosa, and Dietz 2003)"
-  },
-  {
-    "objectID": "lecture1.html#treadmill-of-production-1",
-    "href": "lecture1.html#treadmill-of-production-1",
-    "title": "Macro-Economic Perspectives on Climate Change",
-    "section": "Treadmill of Production",
-    "text": "Treadmill of Production\n\n\nSchnaiberg argues that producers won’t internalize environmental costs willingly, as it reduces profits.\nReform-oriented actions may not significantly alter producer power or reduce environmental externalities.\nThe solution, according to the treadmill perspective, is to restructure society to limit producer hegemony.\nEfficiency-improving technology, in contrast, ultimately leads to increased impacts due to reinvestment in production.\n\n\n(York, Rosa, and Dietz 2003)"
-  },
-  {
     "objectID": "lecture1.html#world-development-indicators",
     "href": "lecture1.html#world-development-indicators",
-    "title": "Macro-Economic Perspectives on Climate Change",
+    "title": "SOCS0078 - Macro-Economic Perspectives on Climate Change",
     "section": "World Development Indicators",
     "text": "World Development Indicators\nThe code below loads the WDI packages and searches for an indicator on CO2 per capita. It uses the statistics software R (more later).\n\n# load package\nlibrary(WDI)\n\n# Search GDP per capita (log-transformed)\nWDIsearch(\"CO2.*capita\")\n\n          indicator\n6032 EN.ATM.CO2E.PC\n6048 EN.ATM.METH.PC\n6059 EN.ATM.NOXE.PC\n                                                                   name\n6032                             CO2 emissions (metric tons per capita)\n6048                Methane emissions (kt of CO2 equivalent per capita)\n6059 Nitrous oxide emissions (metric tons of CO2 equivalent per capita)\n\n\nThe code below uses the WDI API to retrieve the data and creates a dataframe of three indicators.\n\n# Define countries, indicators form above, and time period\nwd.df &lt;- WDI(country = \"all\", \n             indicator = c('population' = \"SP.POP.TOTL\", \n                           'gdp_pc' = \"NY.GDP.PCAP.KD\", \n                           'co2_pc' = \"EN.ATM.CO2E.PC\",\n                           'nox_pc' = \"EN.ATM.NOXE.PC\",\n                           'pm25_mean' = \"EN.ATM.PM25.MC.M3\",\n                           'parliament_women_pt' = \"SG.GEN.PARL.ZS\",\n                           'gini'  = \"SI.POV.GINI\", \n                           'fossil_fuel_pt' = \"EG.USE.COMM.FO.ZS\", \n                           'taxes_total' = \"IC.TAX.TOTL.CP.ZS\"),\n             extra = TRUE,\n             start = 2000, end = 2019)\n\n# Drop all country aggregates\nwd.df &lt;- wd.df[which(wd.df$region != \"Aggregates\"), ]\n\n# Save data\nsave(wd.df, file = \"WDI_short.RData\")"
   },
   {
     "objectID": "lecture1.html#empirical-test-using-2019-data",
     "href": "lecture1.html#empirical-test-using-2019-data",
-    "title": "Macro-Economic Perspectives on Climate Change",
+    "title": "SOCS0078 - Macro-Economic Perspectives on Climate Change",
     "section": "Empirical Test Using 2019 data",
     "text": "Empirical Test Using 2019 data\n\n\nshow code\nload(\"WDI_short.RData\")\n\n# Estimate linear regression with quadratic term\nmod1.lm &lt;- lm(log(co2_pc) ~ log(gdp_pc) + I(log(gdp_pc)^2),\n              data = wd.df[wd.df$year == 2019,])\n\nsummary(mod1.lm)\n\n\n\nCall:\nlm(formula = log(co2_pc) ~ log(gdp_pc) + I(log(gdp_pc)^2), data = wd.df[wd.df$year == \n    2019, ])\n\nResiduals:\n     Min       1Q   Median       3Q      Max \n-1.21519 -0.40234 -0.09141  0.33265  1.75904 \n\nCoefficients:\n                  Estimate Std. Error t value Pr(&gt;|t|)    \n(Intercept)      -19.99727    1.54396 -12.952  &lt; 2e-16 ***\nlog(gdp_pc)        3.96016    0.36116  10.965  &lt; 2e-16 ***\nI(log(gdp_pc)^2)  -0.17695    0.02076  -8.525 5.89e-15 ***\n---\nSignif. codes:  0 '***' 0.001 '**' 0.01 '*' 0.05 '.' 0.1 ' ' 1\n\nResidual standard error: 0.5776 on 181 degrees of freedom\n  (31 observations deleted due to missingness)\nMultiple R-squared:  0.8339,    Adjusted R-squared:  0.832 \nF-statistic: 454.3 on 2 and 181 DF,  p-value: &lt; 2.2e-16\n\n\n\n\nPositive and highly significant linear term\nNegative and highly significant quadratic term"
   },
   {
     "objectID": "lecture1.html#really-a-curve",
     "href": "lecture1.html#really-a-curve",
-    "title": "Macro-Economic Perspectives on Climate Change",
+    "title": "SOCS0078 - Macro-Economic Perspectives on Climate Change",
     "section": "Really a “Curve”?",
     "text": "Really a “Curve”?\n\n\nshow code\n# Calculate maximum (turning point)\nb1 &lt;- mod1.lm$coefficients[\"log(gdp_pc)\"]\nb2 &lt;- mod1.lm$coefficients[\"I(log(gdp_pc)^2)\"]\ntp &lt;- -b1 / (2 * b2)\n\n# load package\nlibrary(ggplot2)\n\n# Plot 2019 data\npl1 &lt;- ggplot(wd.df[wd.df$year == 2019,],\n              aes(\n                x = gdp_pc,\n                y = co2_pc,\n                size = population,\n                color = region\n              )) +\n  geom_smooth(aes(group = 1), show.legend = \"none\") + \n  geom_point(alpha = 0.5) +\n  geom_vline(xintercept = exp(tp), linetype=\"dotted\") +\n  annotate(geom=\"text\", x = 10000,  y = 0.1,\n           label = paste0(\"Turning point: \", \n                          format(round(exp(tp), 0), big.mark = \",\"), \n           \" USD\")) +\n  theme_minimal() + \n  scale_y_log10() +  \n  scale_x_log10(labels = scales::dollar_format()) +\n  labs(y = \"CO2 emissions per capita (log-transformed)\", \n       x = \"GDP per capita (log-transformed)\",\n       title = \"Year: 2019\")\n\npl1"
   },
   {
     "objectID": "lecture1.html#maybe-over-time",
     "href": "lecture1.html#maybe-over-time",
-    "title": "Macro-Economic Perspectives on Climate Change",
+    "title": "SOCS0078 - Macro-Economic Perspectives on Climate Change",
     "section": "Maybe Over Time?",
     "text": "Maybe Over Time?\n\n\nshow code\n# Load library\nlibrary(gganimate)\n\n# Define a start and end year\nst &lt;- 2009\nend &lt;- 2019\n\nwd_sub.df &lt;- wd.df[which(wd.df$year &gt;= st & wd.df$year &lt;= end), ]\n\n# duplicate 2019 data for each year\ntmp.df &lt;- wd_sub.df[wd_sub.df$year == 2019, ]\nl &lt;- nrow(tmp.df)\ntmp.df &lt;- tmp.df[rep(seq_len(nrow(tmp.df)), \n                     each = length(unique(wd_sub.df$year))), ]\ntmp.df$year &lt;- rep(unique(wd_sub.df$year), times  = l)\n\n# Plot 2019 data\npl2 &lt;- ggplot(wd_sub.df,\n              aes(\n                x = gdp_pc,\n                y = co2_pc,\n              )) +\n  geom_smooth(mappping = aes(group = year), data =  tmp.df, \n              show.legend = \"none\", se = FALSE, alpha = 0.5) + \n  geom_point(aes(size = population,\n                color = region), alpha = 0.5) +\n  # geom_vline(xintercept = exp(tp), linetype=\"dotted\") +\n  # annotate(geom=\"text\", x = 10000,  y = 0.1,\n  #          label = paste0(\"Turning point: \", \n  #                         format(round(exp(tp), 0), big.mark = \",\"), \n  #          \" USD\")) +\n  theme_minimal() + \n  scale_y_log10() +  \n  scale_x_log10(labels = scales::dollar_format()) +\n  labs(y = \"CO2 emissions per capita (log-transformed)\", \n       x = \"GDP per capita (log-transformed)\") +\n  transition_time(year) +\n  labs(title = \"Year: {frame_time}\") +\n  shadow_wake(wake_length = 0.7, alpha = FALSE, wrap = FALSE)\n\npl2"
   },
   {
     "objectID": "lecture1.html#economic-recession",
     "href": "lecture1.html#economic-recession",
-    "title": "Macro-Economic Perspectives on Climate Change",
+    "title": "SOCS0078 - Macro-Economic Perspectives on Climate Change",
     "section": "Economic Recession",
     "text": "Economic Recession\nWhat do you think happened during the financial crisis (2007/2008)? Can we learn something about the growth - degradation relation from the recession?\n\nYou can test your hypothesis by changing the starting and/or ending year in the code behind these slides:\n# Define a start and end year\nst &lt;- 2009\nend &lt;- 2019\n\nwd_sub.df &lt;- wd.df[which(wd.df$year &gt;= st & wd.df$year &lt;= end), ]"
   },
   {
     "objectID": "lecture1.html#key-takeaways",
     "href": "lecture1.html#key-takeaways",
-    "title": "Macro-Economic Perspectives on Climate Change",
+    "title": "SOCS0078 - Macro-Economic Perspectives on Climate Change",
     "section": "Key Takeaways",
     "text": "Key Takeaways\n\nThe EKC explores the relationship between economic growth and the environment.\n\nIt suggests an inverted U-shaped curve, with a turning point of peak environmental degradation.\nMultiple factors, including scale, technology, and policy, influence the EKC.\n\nEvidence varies, and the EKC is based on a fragile foundation.\n\nWrong conclusion: de-emphasize environmental policy and pursue growth instead.\nEKC is overly simplistic.\n\nSome optimism: There are downwards trends in emissions in several European countries."
   },
   {
     "objectID": "lecture1.html#questions",
     "href": "lecture1.html#questions",
-    "title": "Macro-Economic Perspectives on Climate Change",
+    "title": "SOCS0078 - Macro-Economic Perspectives on Climate Change",
     "section": "Questions?",
     "text": "Questions?\n\nDo you have any questions about the Environmental Kuznets Curve?"
   },
   {
     "objectID": "lecture1.html#back-to-decoupling-and-green-growth",
     "href": "lecture1.html#back-to-decoupling-and-green-growth",
-    "title": "Macro-Economic Perspectives on Climate Change",
+    "title": "SOCS0078 - Macro-Economic Perspectives on Climate Change",
     "section": "Back to “Decoupling” and “Green Growth”",
     "text": "Back to “Decoupling” and “Green Growth”\nFor the best part of the past 200 years, one rule held across the world: if a country’s economic activity expanded, so did its carbon emissions. But starting in the 1980s with the advent of nuclear power, it became increasingly common to see countries cutting emissions while growing GDP.\nThe pace of this decoupling has now accelerated as the shift from carbon-intensive manufacturing to services and from dirtier to relatively cleaner fossil fuels has been supercharged by proliferating cheap renewables.\nJohn Burn-Murdoch in the Financial Times (2022)"
   },
   {
     "objectID": "lecture1.html#but-remember-the-absolute-level",
     "href": "lecture1.html#but-remember-the-absolute-level",
-    "title": "Macro-Economic Perspectives on Climate Change",
+    "title": "SOCS0078 - Macro-Economic Perspectives on Climate Change",
     "section": "But Remember the Absolute Level",
     "text": "But Remember the Absolute Level\nOver the past decade, some countries have reduced their CO2 emissions while increasing their gross domestic product (absolute decoupling). Politicians and media have hailed this as green growth.\nThe emission reductions that high-income countries achieved through absolute decoupling fall far short of Paris-compliant rates. At the achieved rates, these countries would on average take more than 220 years to reduce their emissions by 95%\n(Vogel and Hickel 2023)"
   },
   {
     "objectID": "lecture1.html#but-remember-the-absolute-level-1",
     "href": "lecture1.html#but-remember-the-absolute-level-1",
-    "title": "Macro-Economic Perspectives on Climate Change",
+    "title": "SOCS0078 - Macro-Economic Perspectives on Climate Change",
     "section": "But Remember the Absolute Level",
     "text": "But Remember the Absolute Level\n\nHigh-income countries that have recently achieved absolute decoupling. Source: Vogel and Hickel (2023)"
   },
   {
     "objectID": "lecture1.html#still-a-long-way",
     "href": "lecture1.html#still-a-long-way",
-    "title": "Macro-Economic Perspectives on Climate Change",
+    "title": "SOCS0078 - Macro-Economic Perspectives on Climate Change",
     "section": "Still a Long Way",
     "text": "Still a Long Way\n\nHigh-income countries that have recently achieved absolute decoupling. Source: Vogel and Hickel (2023)"
   },
   {
+    "objectID": "lecture1.html#what-we-would-need",
+    "href": "lecture1.html#what-we-would-need",
+    "title": "SOCS0078 - Macro-Economic Perspectives on Climate Change",
+    "section": "What we would need",
+    "text": "What we would need\n\nSource: Vogel and Hickel (2023)"
+  },
+  {
     "objectID": "lecture1.html#key-takeaways-1",
     "href": "lecture1.html#key-takeaways-1",
-    "title": "Macro-Economic Perspectives on Climate Change",
+    "title": "SOCS0078 - Macro-Economic Perspectives on Climate Change",
     "section": "Key Takeaways",
     "text": "Key Takeaways\n\n“Green growth” (as EKC) alone is not going to solve the problem.\nContinued economic growth within 1.5°C fair-shares seems empirically out of reach, even for the best-performing countries.\nVogel and Hickel (2023) suggest post-growth approaches:\n\nreducing carbon-intensive and less-necessary production and consumption,\nshifting to low-carbon alternatives,\nabandoning the pursuit of aggregate economic growth.\n\n\n\nHow to achieve in high-income countries?"
   },
   {
+    "objectID": "lecture1.html#green-growth-is-already-here-2",
+    "href": "lecture1.html#green-growth-is-already-here-2",
+    "title": "SOCS0078 - Macro-Economic Perspectives on Climate Change",
+    "section": "“Green growth is already here”",
+    "text": "“Green growth is already here”"
+  },
+  {
+    "objectID": "lecture1.html#treadmill-of-production",
+    "href": "lecture1.html#treadmill-of-production",
+    "title": "SOCS0078 - Macro-Economic Perspectives on Climate Change",
+    "section": "Treadmill of Production",
+    "text": "Treadmill of Production\n\n\nEcological Modernization\n\nTreadmill of production"
+  },
+  {
     "objectID": "lecture1.html#references",
     "href": "lecture1.html#references",
-    "title": "Macro-Economic Perspectives on Climate Change",
+    "title": "SOCS0078 - Macro-Economic Perspectives on Climate Change",
     "section": "References",
-    "text": "References\n\n\n&lt;home&gt;\n\n\n\nArrow, Kenneth, Bert Bolin, Robert Costanza, Partha Dasgupta, Carl Folke, C. S. Holling, Bengt-Owe Jansson, et al. 1995. “Economic Growth, Carrying Capacity, and the Environment.” Science 268 (5210): 520–21. https://doi.org/10.1126/science.268.5210.520.\n\n\nDasgupta, Susmita, Benoit Laplante, Hua Wang, and David Wheeler. 2002. “Confronting the Environmental Kuznets Curve.” Journal of Economic Perspectives 16 (1): 147–68. https://doi.org/10.1257/0895330027157.\n\n\nGrossman, G. M., and A. B. Krueger. 1995. “Economic Growth and the Environment.” The Quarterly Journal of Economics 110 (2): 353–77. https://doi.org/10.2307/2118443.\n\n\nKuznets, Simon. 1955. “Economic Growth and Income Inequality.” The American Economic Review 45 (1): 1–28.\n\n\nSchnaiberg, Allan, David N. Pellow, and Adam Weinberg. 2002. “The Treadmill of Production and the Environmental State.” In The Environmental State Under Pressure, edited by Arthur P. J. Mol and Frederick H. Buttel, 15–32. Research in Social Problems and Public Policy. Amsterdam: Emerald Group Publishing Limited.\n\n\nSelden, Thomas M., and Daqing Song. 1994. “Environmental Quality and Development: Is There a Kuznets Curve for Air Pollution Emissions?” Journal of Environmental Economics and Management 27 (2): 147–62. https://doi.org/10.1006/jeem.1994.1031.\n\n\nStern, David I. 2004. “The Rise and Fall of the Environmental Kuznets Curve.” World Development 32 (8): 1419–39. https://doi.org/10.1016/j.worlddev.2004.03.004.\n\n\nStern, David I. 2017. “The Environmental Kuznets Curve After 25 Years.” Journal of Bioeconomics 19 (1): 7–28. https://doi.org/10.1007/s10818-017-9243-1.\n\n\nVogel, Jefim, and Jason Hickel. 2023. “Is Green Growth Happening? An Empirical Analysis of Achieved Versus Paris-compliant CO2 Decoupling in High-Income Countries.” The Lancet Planetary Health 7 (9): e759–69. https://doi.org/10.1016/S2542-5196(23)00174-2.\n\n\nYork, Richard, Eugene A. Rosa, and Thomas Dietz. 2003. “Footprints on the Earth: The Environmental Consequences of Modernity.” American Sociological Review 68 (2): 279–300. https://doi.org/10.2307/1519769."
-  },
-  {
-    "objectID": "lecture1.html#climate-change",
-    "href": "lecture1.html#climate-change",
-    "title": "Macro-Economic Perspectives on Climate Change",
-    "section": "Climate Change",
-    "text": "Climate Change\n\nRemember last summer?\nIt’s getting warmer!"
-  },
-  {
-    "objectID": "lecture1.html#climate-change-1",
-    "href": "lecture1.html#climate-change-1",
-    "title": "Macro-Economic Perspectives on Climate Change",
-    "section": "Climate Change",
-    "text": "Climate Change\n\nIt’s getting warmer!\nAnomalies will become the new normal"
-  },
-  {
-    "objectID": "lecture1.html#its-getting-warmer",
-    "href": "lecture1.html#its-getting-warmer",
-    "title": "Macro-Economic Perspectives on Climate Change",
-    "section": "It’s getting warmer!",
-    "text": "It’s getting warmer!\n\nAnomalies will become the new normal"
-  },
-  {
-    "objectID": "lecture1.html#anomalies-will-become-the-new-normal",
-    "href": "lecture1.html#anomalies-will-become-the-new-normal",
-    "title": "Macro-Economic Perspectives on Climate Change",
-    "section": "Anomalies will become the new normal",
-    "text": "Anomalies will become the new normal\n\nParticularly affecting the Global South!"
-  },
-  {
-    "objectID": "lecture1.html#whos-reponsible",
-    "href": "lecture1.html#whos-reponsible",
-    "title": "Macro-Economic Perspectives on Climate Change",
-    "section": "Who’s reponsible?",
-    "text": "Who’s reponsible?\n\n\n\nBiocapacity =\n\nBiocapacity per person -\n\nEcological Footprint per person"
-  },
-  {
-    "objectID": "lecture1.html#climate-change-whos-reponsible",
-    "href": "lecture1.html#climate-change-whos-reponsible",
-    "title": "Macro-Economic Perspectives on Climate Change",
-    "section": "Climate Change: Who’s reponsible?",
-    "text": "Climate Change: Who’s reponsible?\n\n\nEcological Footprint per person\n\nCalculate your own: https://www.footprintcalculator.org/home/en"
-  },
-  {
-    "objectID": "lecture1.html#climate-change-2",
-    "href": "lecture1.html#climate-change-2",
-    "title": "Macro-Economic Perspectives on Climate Change",
-    "section": "Climate Change",
-    "text": "Climate Change\n\nAnomalies will become the new normal\nParticularly affecting the Global South!"
-  },
-  {
-    "objectID": "lecture1.html#climate-change-3",
-    "href": "lecture1.html#climate-change-3",
-    "title": "Macro-Economic Perspectives on Climate Change",
-    "section": "Climate Change",
-    "text": "Climate Change\n\nIs there any hope?"
-  },
-  {
-    "objectID": "lecture1.html#early-ekc-studies-1",
-    "href": "lecture1.html#early-ekc-studies-1",
-    "title": "Macro-Economic Perspectives on Climate Change",
-    "section": "Early EKC Studies",
-    "text": "Early EKC Studies"
-  },
-  {
-    "objectID": "lecture1.html#your-opnion",
-    "href": "lecture1.html#your-opnion",
-    "title": "Macro-Economic Perspectives on Climate Change",
-    "section": "Your opnion",
-    "text": "Your opnion\n\n\nBirthday on EVEN day (e.g. 18th, 22nd)\n\n\nBirthday on ODD day (e.g. 7th, 15th)"
-  },
-  {
-    "objectID": "lecture1.html#even-answers",
-    "href": "lecture1.html#even-answers",
-    "title": "Macro-Economic Perspectives on Climate Change",
-    "section": "EVEN Answers",
-    "text": "EVEN Answers"
-  },
-  {
-    "objectID": "lecture1.html#odd-answers",
-    "href": "lecture1.html#odd-answers",
-    "title": "Macro-Economic Perspectives on Climate Change",
-    "section": "ODD Answers",
-    "text": "ODD Answers"
+    "text": "References\n\n\n\n\n\n\nArrow, Kenneth, Bert Bolin, Robert Costanza, Partha Dasgupta, Carl Folke, C. S. Holling, Bengt-Owe Jansson, et al. 1995. “Economic Growth, Carrying Capacity, and the Environment.” Science 268 (5210): 520–21. https://doi.org/10.1126/science.268.5210.520.\n\n\nDasgupta, Susmita, Benoit Laplante, Hua Wang, and David Wheeler. 2002. “Confronting the Environmental Kuznets Curve.” Journal of Economic Perspectives 16 (1): 147–68. https://doi.org/10.1257/0895330027157.\n\n\nGrossman, G. M., and A. B. Krueger. 1995. “Economic Growth and the Environment.” The Quarterly Journal of Economics 110 (2): 353–77. https://doi.org/10.2307/2118443.\n\n\nKuznets, Simon. 1955. “Economic Growth and Income Inequality.” The American Economic Review 45 (1): 1–28.\n\n\nSelden, Thomas M., and Daqing Song. 1994. “Environmental Quality and Development: Is There a Kuznets Curve for Air Pollution Emissions?” Journal of Environmental Economics and Management 27 (2): 147–62. https://doi.org/10.1006/jeem.1994.1031.\n\n\nStern, David I. 2004. “The Rise and Fall of the Environmental Kuznets Curve.” World Development 32 (8): 1419–39. https://doi.org/10.1016/j.worlddev.2004.03.004.\n\n\nStern, David I. 2017. “The Environmental Kuznets Curve After 25 Years.” Journal of Bioeconomics 19 (1): 7–28. https://doi.org/10.1007/s10818-017-9243-1.\n\n\nVogel, Jefim, and Jason Hickel. 2023. “Is Green Growth Happening? An Empirical Analysis of Achieved Versus Paris-compliant CO2 Decoupling in High-Income Countries.” The Lancet Planetary Health 7 (9): e759–69. https://doi.org/10.1016/S2542-5196(23)00174-2.\n\n\nYork, Richard, Eugene A. Rosa, and Thomas Dietz. 2003. “Footprints on the Earth: The Environmental Consequences of Modernity.” American Sociological Review 68 (2): 279–300. https://doi.org/10.2307/1519769."
   }
 ]
