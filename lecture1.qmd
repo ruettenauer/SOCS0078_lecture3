@@ -248,6 +248,8 @@ Several factors influence the shape of the EKC:
   - Production efficiency: Using less input/resources.
   - Emission efficiency: Same input producing less emissions.
   <!-- - **Policy and Awareness:** Environmental regulations reduce emissions. -->
+  
+- Shift in values and norms  
 :::
 
 [@Stern.2004; @Stern.2017]
@@ -664,26 +666,26 @@ __Treadmill of production__
 
 
 
-<!-- --- -->
+---
 
-<!-- ## Your opnion {.smaller} -->
+## Your opnion {.smaller}
 
-<!-- :::: {.columns} -->
+:::: {.columns}
 
-<!-- ::: {.column width="50%"} -->
-<!-- Birthday on EVEN day (e.g. 18th, 22nd) -->
+::: {.column width="50%"}
+Birthday on EVEN day (e.g. 18th, 22nd)
 
-<!-- ![](figs/mentimeter_qr_code_A.png) -->
-<!-- ::: -->
+![](figs/mentimeter_qr_code_A.png)
+:::
 
-<!-- ::: {.column width="50%"} -->
-<!-- Birthday on ODD day (e.g. 7th, 15th) -->
+::: {.column width="50%"}
+Birthday on ODD day (e.g. 7th, 15th)
 
-<!-- ![](figs/mentimeter_qr_code_B.png) -->
+![](figs/mentimeter_qr_code_B.png)
 
-<!-- ::: -->
+:::
 
-<!-- :::: -->
+::::
 
 
 <!-- ## EVEN Answers -->
